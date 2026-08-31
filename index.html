@@ -4,13 +4,26 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Catálogo online de Emitos Peluquería Canina" />
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'none'; connect-src 'self'; font-src 'self'; media-src 'none'; object-src 'none'; frame-src 'none'; worker-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests;" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self'; font-src 'self'; media-src 'none'; object-src 'none'; frame-src 'none'; worker-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests;" />
   <meta name="referrer" content="no-referrer" />
   <title>Emitos Peluquería Canina | Catálogo</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header class="site-header"><div class="container header-content"><div><p class="eyebrow">Catálogo online</p><h1 id="shop-name">Emitos Peluquería Canina</h1><p class="subtitle">Elegí tus productos y mandanos el pedido por WhatsApp.</p></div><button id="cart-button" class="cart-button" type="button" aria-label="Abrir carrito">🛒 <span>Carrito</span><span id="cart-count" class="cart-count">0</span></button></div></header>
+  <header class="site-header">
+    <div class="container header-content">
+      <div class="brand-block">
+        <img class="brand-logo" src="assets/logo-emitos.webp" alt="Logo de Emitos Dog's Barbershop" width="900" height="374" />
+        <div class="brand-copy">
+          <p class="eyebrow">Catálogo online</p>
+          <h1 id="shop-name">Emitos Peluquería Canina</h1>
+          <p class="subtitle">Elegí tus productos y mandanos el pedido por WhatsApp.</p>
+          <a class="instagram-link" href="https://www.instagram.com/emitospeluqueriacanina" target="_blank" rel="noopener noreferrer external" aria-label="Abrir Instagram de Emitos Peluquería Canina">Instagram · @emitospeluqueriacanina</a>
+        </div>
+      </div>
+      <button id="cart-button" class="cart-button" type="button" aria-label="Abrir carrito">🛒 <span>Carrito</span><span id="cart-count" class="cart-count">0</span></button>
+    </div>
+  </header>
   <main class="container">
     <section class="controls" aria-label="Filtros del catálogo">
       <input id="search-input" class="search-input" type="search" placeholder="Buscar producto, marca o presentación..." aria-label="Buscar producto" maxlength="80" autocomplete="off" />
