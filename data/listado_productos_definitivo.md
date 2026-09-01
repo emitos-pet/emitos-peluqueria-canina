@@ -88,7 +88,7 @@
   - precio: 30377.05
   - disponible: true
 
-- producto: "ROYAL CANIN X-Small Junior"
+- producto: "X-Small Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -97,7 +97,7 @@
   - precio: 12477.62
   - disponible: true
 
-- producto: "ROYAL CANIN X-Small Adulto"
+- producto: "X-Small Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -106,16 +106,16 @@
   - precio: 11664.2
   - disponible: true
 
-- producto: "ROYAL CANIN Starter Mini"
+- producto: "Starter Mini"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 12056.07
+  - precio: 13600.00
   - disponible: true
 
-- producto: "ROYAL CANIN Starter Mini"
+- producto: "Starter Mini"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -124,7 +124,7 @@
   - precio: 35394.7
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Puppy"
+- producto: "Mini Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -133,70 +133,70 @@
   - precio: 11237.53
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Puppy"
+- producto: "Mini Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 32993.31
+  - precio: 33000.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Puppy"
+- producto: "Mini Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 65866.99
+  - precio: 66700.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Puppy"
+- producto: "Mini Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 122742.84
+  - precio: 124000.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Adult"
+- producto: "Mini Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 11176.14
+  - precio: 11100.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Adult"
+- producto: "Mini Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 31620.21
+  - precio: 31500.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Adult"
+- producto: "Mini Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 72107.18
+  - precio: 73200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Adult"
+- producto: "Mini Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 118384.57
+  - precio: 119700.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Indoor"
+- producto: "Mini Indoor"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -205,7 +205,7 @@
   - precio: 11253.9
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Indoor"
+- producto: "Mini Indoor"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -214,7 +214,7 @@
   - precio: 31619.19
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Adult 8+"
+- producto: "Mini Adult 8+"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -223,16 +223,16 @@
   - precio: 11934.32
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Adult 8+"
+- producto: "Mini Adult 8+"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 33731.02
+  - precio: 33500.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Ageing 12+"
+- producto: "Mini Ageing 12+"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -241,16 +241,16 @@
   - precio: 11934.32
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Ageing 12+"
+- producto: "Mini Ageing 12+"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 33731.02
+  - precio: 33500.00
   - disponible: true
 
-- producto: "ROYAL CANIN Starter Medium"
+- producto: "Starter Medium"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -259,7 +259,7 @@
   - precio: 35393.68
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Puppy"
+- producto: "Medium Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -268,34 +268,34 @@
   - precio: 11400.22
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Puppy"
+- producto: "Medium Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 33472.16
+  - precio: 33300.00
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Puppy"
+- producto: "Medium Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 119550.33
+  - precio: 121000.00
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Adult"
+- producto: "Medium Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 30031.22
+  - precio: 30000.00
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Adult"
+- producto: "Medium Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -304,16 +304,16 @@
   - precio: 68495.24
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Adult"
+- producto: "Medium Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 112455.18
+  - precio: 113600.00
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Adult 7+"
+- producto: "Medium Adult 7+"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -322,7 +322,7 @@
   - precio: 32901.22
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Adult 7+"
+- producto: "Medium Adult 7+"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -331,7 +331,7 @@
   - precio: 123675.25
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Ageing 10+"
+- producto: "Medium Ageing 10+"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -340,7 +340,7 @@
   - precio: 123675.25
   - disponible: true
 
-- producto: "ROYAL CANIN Starter Maxi"
+- producto: "Starter Maxi"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -349,7 +349,7 @@
   - precio: 82383.78
   - disponible: true
 
-- producto: "ROYAL CANIN Maxi Puppy"
+- producto: "Maxi Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -358,43 +358,43 @@
   - precio: 11400.22
   - disponible: true
 
-- producto: "ROYAL CANIN Maxi Puppy"
+- producto: "Maxi Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 33472.16
+  - precio: 33400.00
   - disponible: true
 
-- producto: "ROYAL CANIN Maxi Puppy"
+- producto: "Maxi Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 119550.33
+  - precio: 120700.00
   - disponible: true
 
-- producto: "ROYAL CANIN Maxi Adult"
+- producto: "Maxi Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 29905.37
+  - precio: 29900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Maxi Adult"
+- producto: "Maxi Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 111984.45
+  - precio: 113400.00
   - disponible: true
 
-- producto: "ROYAL CANIN Maxi Adult 5+"
+- producto: "Maxi Adult 5+"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -403,7 +403,7 @@
   - precio: 123157.25
   - disponible: true
 
-- producto: "ROYAL CANIN Maxi Ageing 8+"
+- producto: "Maxi Ageing 8+"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -412,7 +412,7 @@
   - precio: 123157.25
   - disponible: true
 
-- producto: "ROYAL CANIN Starter Giant"
+- producto: "Starter Giant"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -421,7 +421,7 @@
   - precio: 82378.75
   - disponible: true
 
-- producto: "ROYAL CANIN Giant Puppy"
+- producto: "Giant Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -430,7 +430,16 @@
   - precio: 11398.17
   - disponible: true
 
-- producto: "ROYAL CANIN Giant Puppy"
+- producto: "Giant Puppy"
+  - marca: "Royal Canin"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 120700.00
+  - disponible: true
+
+- producto: "Giant Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -439,22 +448,13 @@
   - precio: 119550.33
   - disponible: true
 
-- producto: "ROYAL CANIN Giant Junior"
+- producto: "Giant Adult"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 119550.33
-  - disponible: true
-
-- producto: "ROYAL CANIN Giant Adult"
-  - marca: "Royal Canin"
-  - tipo_animal: "Perro"
-  - cantidad: 15
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 106651.52
+  - precio: 113000.00
   - disponible: true
 
 - producto: "Poodle Pouch"
@@ -484,7 +484,7 @@
   - precio: 26633.25
   - disponible: true
 
-- producto: "ROYAL CANIN Chihuahua Adulto"
+- producto: "Chihuahua Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -493,7 +493,7 @@
   - precio: 11687.73
   - disponible: true
 
-- producto: "ROYAL CANIN Yorkshire Terrier Junior"
+- producto: "Yorkshire Terrier Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -502,16 +502,16 @@
   - precio: 12250.48
   - disponible: true
 
-- producto: "ROYAL CANIN Yorkshire Terrier Junior"
+- producto: "Yorkshire Terrier Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 37410.36
+  - precio: 37200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Yorkshire Terrier Adulto"
+- producto: "Yorkshire Terrier Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -520,16 +520,16 @@
   - precio: 11687.73
   - disponible: true
 
-- producto: "ROYAL CANIN Yorkshire Terrier Adulto"
+- producto: "Yorkshire Terrier Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 34394.04
+  - precio: 34200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Caniche Junior"
+- producto: "Caniche Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -538,16 +538,16 @@
   - precio: 12250.48
   - disponible: true
 
-- producto: "ROYAL CANIN Caniche Junior"
+- producto: "Caniche Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 37410.36
+  - precio: 37200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Caniche Adulto"
+- producto: "Caniche Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -556,25 +556,25 @@
   - precio: 11687.73
   - disponible: true
 
-- producto: "ROYAL CANIN Caniche Adulto"
+- producto: "Caniche Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 34394.04
+  - precio: 34200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Caniche Adulto"
+- producto: "Caniche Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 72190.67
+  - precio: 73300.00
   - disponible: true
 
-- producto: "ROYAL CANIN Jack Russell Junior"
+- producto: "Jack Russell Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -583,7 +583,7 @@
   - precio: 12250.48
   - disponible: true
 
-- producto: "ROYAL CANIN Jack Russell Junior"
+- producto: "Jack Russell Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -592,7 +592,7 @@
   - precio: 37410.36
   - disponible: true
 
-- producto: "ROYAL CANIN Jack Russell Adulto"
+- producto: "Jack Russell Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -601,7 +601,7 @@
   - precio: 11687.73
   - disponible: true
 
-- producto: "ROYAL CANIN Jack Russell Adulto"
+- producto: "Jack Russell Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -610,7 +610,7 @@
   - precio: 34394.04
   - disponible: true
 
-- producto: "ROYAL CANIN Dachshund Junior"
+- producto: "Dachshund Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -619,7 +619,7 @@
   - precio: 12250.48
   - disponible: true
 
-- producto: "ROYAL CANIN Dachshund Junior"
+- producto: "Dachshund Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -628,25 +628,25 @@
   - precio: 37410.36
   - disponible: true
 
-- producto: "ROYAL CANIN Dachshund Adulto"
+- producto: "Dachshund Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 34394.04
+  - precio: 34200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Schnauzer Miniature Adulto"
+- producto: "Schnauzer Miniature Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 34394.04
+  - precio: 34200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Bulldog Francés Junior"
+- producto: "Bulldog Francés Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -655,7 +655,43 @@
   - precio: 12250.48
   - disponible: true
 
-- producto: "ROYAL CANIN Bulldog Francés Junior"
+- producto: "Bulldog Francés Junior"
+  - marca: "Royal Canin"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 37200.00
+  - disponible: true
+
+- producto: "Bulldog Francés Adulto"
+  - marca: "Royal Canin"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 34200.00
+  - disponible: true
+
+- producto: "Bulldog Francés Adulto"
+  - marca: "Royal Canin"
+  - tipo_animal: "Perro"
+  - cantidad: 7.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 73300.00
+  - disponible: true
+
+- producto: "Pug Junior"
+  - marca: "Royal Canin"
+  - tipo_animal: "Perro"
+  - cantidad: 1
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 12250.48
+  - disponible: true
+
+- producto: "Pug Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -664,7 +700,7 @@
   - precio: 37410.36
   - disponible: true
 
-- producto: "ROYAL CANIN Bulldog Francés Adulto"
+- producto: "Pug Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -673,7 +709,7 @@
   - precio: 34394.04
   - disponible: true
 
-- producto: "ROYAL CANIN Bulldog Francés Adulto"
+- producto: "Pug Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -682,16 +718,7 @@
   - precio: 72186.64
   - disponible: true
 
-- producto: "ROYAL CANIN Pug Junior"
-  - marca: "Royal Canin"
-  - tipo_animal: "Perro"
-  - cantidad: 1
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 12250.48
-  - disponible: true
-
-- producto: "ROYAL CANIN Pug Junior"
+- producto: "Bulldog Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -700,34 +727,7 @@
   - precio: 37410.36
   - disponible: true
 
-- producto: "ROYAL CANIN Pug Adulto"
-  - marca: "Royal Canin"
-  - tipo_animal: "Perro"
-  - cantidad: 3
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 34394.04
-  - disponible: true
-
-- producto: "ROYAL CANIN Pug Adulto"
-  - marca: "Royal Canin"
-  - tipo_animal: "Perro"
-  - cantidad: 7.5
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 72186.64
-  - disponible: true
-
-- producto: "ROYAL CANIN Bulldog Junior"
-  - marca: "Royal Canin"
-  - tipo_animal: "Perro"
-  - cantidad: 3
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 37410.36
-  - disponible: true
-
-- producto: "ROYAL CANIN Bulldog Junior"
+- producto: "Bulldog Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -736,7 +736,7 @@
   - precio: 78505.29
   - disponible: true
 
-- producto: "ROYAL CANIN Bulldog Adulto"
+- producto: "Bulldog Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -745,7 +745,7 @@
   - precio: 94826.95
   - disponible: true
 
-- producto: "ROYAL CANIN Ovejero Alemán Junior"
+- producto: "Ovejero Alemán Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -754,7 +754,7 @@
   - precio: 104722.33
   - disponible: true
 
-- producto: "ROYAL CANIN Ovejero Alemán Adulto"
+- producto: "Ovejero Alemán Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -763,7 +763,7 @@
   - precio: 94826.95
   - disponible: true
 
-- producto: "ROYAL CANIN Labrador Retriever Junior"
+- producto: "Labrador Retriever Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -772,7 +772,7 @@
   - precio: 104722.33
   - disponible: true
 
-- producto: "ROYAL CANIN Labrador Retriever Adulto"
+- producto: "Labrador Retriever Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -781,7 +781,7 @@
   - precio: 94826.95
   - disponible: true
 
-- producto: "ROYAL CANIN Boxer Junior"
+- producto: "Boxer Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -790,7 +790,7 @@
   - precio: 104722.33
   - disponible: true
 
-- producto: "ROYAL CANIN Boxer Adulto"
+- producto: "Boxer Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -799,7 +799,7 @@
   - precio: 94826.95
   - disponible: true
 
-- producto: "ROYAL CANIN Golden Retriever Junior"
+- producto: "Golden Retriever Junior"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -808,7 +808,7 @@
   - precio: 104722.33
   - disponible: true
 
-- producto: "ROYAL CANIN Golden Retriever Adulto"
+- producto: "Golden Retriever Adulto"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -862,7 +862,7 @@
   - precio: 28736.9
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Weight Care"
+- producto: "Mini Weight Care"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -871,16 +871,16 @@
   - precio: 12594.26
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Weight Care"
+- producto: "Mini Weight Care"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 35630.03
+  - precio: 35300.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Dermacomfort"
+- producto: "Mini Dermacomfort"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -889,7 +889,7 @@
   - precio: 12381.44
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Dermacomfort"
+- producto: "Mini Dermacomfort"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -898,7 +898,7 @@
   - precio: 33423.04
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Castrados"
+- producto: "Mini Castrados"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -907,7 +907,7 @@
   - precio: 35630.03
   - disponible: true
 
-- producto: "ROYAL CANIN Mini Exigent"
+- producto: "Mini Exigent"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -916,7 +916,7 @@
   - precio: 35630.03
   - disponible: true
 
-- producto: "ROYAL CANIN Relax Care"
+- producto: "Relax Care"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2.5
@@ -925,16 +925,16 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "ROYAL CANIN Medium Weight Care"
+- producto: "Medium Weight Care"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 34747.03
+  - precio: 34700.00
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Weight Care"
+- producto: "Medium Weight Care"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -943,7 +943,7 @@
   - precio: 86744.07
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Dermacomfort"
+- producto: "Medium Dermacomfort"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -952,7 +952,7 @@
   - precio: 32594.27
   - disponible: true
 
-- producto: "ROYAL CANIN Medium Dermacomfort"
+- producto: "Medium Dermacomfort"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -961,7 +961,7 @@
   - precio: 79045.42
   - disponible: true
 
-- producto: "ROYAL CANIN Maxi Weight Care"
+- producto: "Maxi Weight Care"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -970,7 +970,7 @@
   - precio: 86744.07
   - disponible: true
 
-- producto: "ROYAL CANIN Maxi Dermacomfort"
+- producto: "Maxi Dermacomfort"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -988,7 +988,25 @@
   - precio: 29108.31
   - disponible: true
 
-- producto: "ROYAL CANIN Urinary"
+- producto: "Urinary"
+  - marca: "Royal Canin"
+  - tipo_animal: "Perro"
+  - cantidad: 1.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 26100.00
+  - disponible: true
+
+- producto: "Urinary"
+  - marca: "Royal Canin"
+  - tipo_animal: "Perro"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 101100.00
+  - disponible: true
+
+- producto: "Urinary Ageing +7"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1.5
@@ -997,7 +1015,7 @@
   - precio: 18625.88
   - disponible: true
 
-- producto: "ROYAL CANIN Urinary"
+- producto: "Urinary Ageing +7"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -1006,25 +1024,7 @@
   - precio: 100049.23
   - disponible: true
 
-- producto: "ROYAL CANIN Urinary Ageing +7"
-  - marca: "Royal Canin"
-  - tipo_animal: "Perro"
-  - cantidad: 1.5
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 18625.88
-  - disponible: true
-
-- producto: "ROYAL CANIN Urinary Ageing +7"
-  - marca: "Royal Canin"
-  - tipo_animal: "Perro"
-  - cantidad: 10
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 100049.23
-  - disponible: true
-
-- producto: "ROYAL CANIN Urinary Small Dog"
+- producto: "Urinary Small Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1051,25 +1051,25 @@
   - precio: 29108.31
   - disponible: true
 
-- producto: "ROYAL CANIN Satiety Support"
+- producto: "Satiety Support"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 17884.08
+  - precio: 17900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Satiety Support"
+- producto: "Satiety Support"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 70984.67
+  - precio: 71800.00
   - disponible: true
 
-- producto: "ROYAL CANIN Satiety Support"
+- producto: "Satiety Support"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -1078,31 +1078,31 @@
   - precio: 126679.68
   - disponible: true
 
-- producto: "ROYAL CANIN Satiety Support Small Dog"
+- producto: "Satiety Support Small Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
   - precio: 18211.5
-  - disponible: true
+  - disponible: false
 
-- producto: "ROYAL CANIN Diabetic Canine"
+- producto: "Diabetic Canine"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 27415.98
+  - precio: 27200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Diabetic Canine"
+- producto: "Diabetic Canine"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
-  - precio: 105060.29
+  - precio: 106300.00
   - disponible: true
 
 - producto: "Hypoallergenic Dog Lata"
@@ -1114,16 +1114,16 @@
   - precio: 31498.45
   - disponible: true
 
-- producto: "ROYAL CANIN Hypoallergenic Puppy"
+- producto: "Hypoallergenic Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 29772.35
+  - precio: 26000.00
   - disponible: true
 
-- producto: "ROYAL CANIN Hypoallergenic Puppy"
+- producto: "Hypoallergenic Puppy"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -1132,34 +1132,34 @@
   - precio: 107148.4
   - disponible: true
 
-- producto: "ROYAL CANIN Hypoallergenic"
+- producto: "Hypoallergenic"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 28763.5
+  - precio: 28600.00
   - disponible: true
 
-- producto: "ROYAL CANIN Hypoallergenic"
+- producto: "Hypoallergenic"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
-  - precio: 107148.4
+  - precio: 108400.00
   - disponible: true
 
-- producto: "ROYAL CANIN Hypoallergenic Small Dog"
+- producto: "Hypoallergenic Small Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 29772.35
+  - precio: 29700.00
   - disponible: true
 
-- producto: "ROYAL CANIN Hypoallergenic Moderate Calorie Dog"
+- producto: "Hypoallergenic Moderate Calorie Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1168,7 +1168,7 @@
   - precio: 29630.13
   - disponible: true
 
-- producto: "ROYAL CANIN Anallergenic Canine"
+- producto: "Anallergenic Canine"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1.5
@@ -1177,7 +1177,7 @@
   - precio: 27464.07
   - disponible: true
 
-- producto: "ROYAL CANIN Anallergenic Canine"
+- producto: "Anallergenic Canine"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 8
@@ -1213,15 +1213,6 @@
   - precio: 29108.31
   - disponible: true
 
-- producto: "Recovery Lata"
-  - marca: "Royal Canin"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "12x195g"
-  - precio: 73090.52
-  - disponible: true
-
 - producto: "Gastrointestinal Puppy Lata"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
@@ -1231,52 +1222,52 @@
   - precio: 29108.31
   - disponible: true
 
-- producto: "ROYAL CANIN Gastrointestinal Dog"
+- producto: "Gastrointestinal Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 23437.88
+  - precio: 23300.00
   - disponible: true
 
-- producto: "ROYAL CANIN Gastrointestinal Dog"
+- producto: "Gastrointestinal Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
-  - precio: 90070.36
+  - precio: 91100.00
   - disponible: true
 
-- producto: "ROYAL CANIN Gastrointestinal Jr. Dog"
+- producto: "Gastrointestinal Jr. Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 22858.76
+  - precio: 22800.00
   - disponible: true
 
-- producto: "ROYAL CANIN Hepatic"
+- producto: "Hepatic"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 19098.59
+  - precio: 19000.00
   - disponible: true
 
-- producto: "ROYAL CANIN Hepatic"
+- producto: "Hepatic"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
-  - precio: 101243.16
+  - precio: 102600.00
   - disponible: true
 
-- producto: "ROYAL CANIN Gastrointestinal Moderate Cal. Dog"
+- producto: "Gastrointestinal Moderate Cal. Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -1285,7 +1276,7 @@
   - precio: 95311.76
   - disponible: true
 
-- producto: "ROYAL CANIN Gastrointestinal Low Fat Dog"
+- producto: "Gastrointestinal Low Fat Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1.5
@@ -1312,25 +1303,25 @@
   - precio: 24327.02
   - disponible: true
 
-- producto: "ROYAL CANIN Renal"
+- producto: "Renal"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 17428.77
+  - precio: 17300.00
   - disponible: true
 
-- producto: "ROYAL CANIN Renal"
+- producto: "Renal"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
-  - precio: 92503.47
+  - precio: 93600.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mobility Support"
+- producto: "Mobility Support"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1339,7 +1330,7 @@
   - precio: 27067.08
   - disponible: true
 
-- producto: "ROYAL CANIN Mobility Support"
+- producto: "Mobility Support"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
@@ -1348,7 +1339,7 @@
   - precio: 107386.79
   - disponible: true
 
-- producto: "ROYAL CANIN Mobility Larger Dogs"
+- producto: "Mobility Larger Dogs"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -1357,25 +1348,25 @@
   - precio: 140785.48
   - disponible: true
 
-- producto: "ROYAL CANIN Cardiac"
+- producto: "Cardiac"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 26966.81
+  - precio: 26900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Cardiac"
+- producto: "Cardiac"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
-  - precio: 105390.21
+  - precio: 106700.00
   - disponible: true
 
-- producto: "ROYAL CANIN Renal Special"
+- producto: "Renal Special"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1384,7 +1375,7 @@
   - precio: 23547.36
   - disponible: true
 
-- producto: "ROYAL CANIN Calm Dog"
+- producto: "Calm Dog"
   - marca: "Royal Canin"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1422,16 +1413,16 @@
 
 ### PERFORMANCE PERRO
 
-- producto: "CLUB PERFORMANCE Dog Junior"
+- producto: "Dog Junior"
   - marca: "Club Performance"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 73738.65
+  - precio: 74500.00
   - disponible: true
 
-- producto: "CLUB PERFORMANCE Dog Adulto"
+- producto: "Dog Adulto"
   - marca: "Club Performance"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -1440,72 +1431,72 @@
   - precio: 68316.2
   - disponible: true
 
-- producto: "CLUB PERFORMANCE Dog Adulto"
+- producto: "Dog Adulto"
   - marca: "Club Performance"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 87453.18
+  - precio: 88400.00
   - disponible: true
 
-- producto: "CLUB PERFORMANCE Weight Control"
+- producto: "Weight Control"
   - marca: "Club Performance"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 68316.2
+  - precio: 69200.00
   - disponible: true
 
 ### PROPLAN PERRO
 
-- producto: "PROPLAN Puppy Small Breed"
+- producto: "Puppy Small Breed"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 12146.69
+  - precio: 9000.00
   - disponible: true
 
-- producto: "PROPLAN Puppy Small Breed"
+- producto: "Puppy Small Breed"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 32788.72
+  - precio: 33900.00
   - disponible: true
 
-- producto: "PROPLAN Puppy Small Breed"
+- producto: "Puppy Small Breed"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 68599.64
+  - precio: 67400.00
   - disponible: true
 
-- producto: "PROPLAN Puppy Complete"
+- producto: "Puppy Complete"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
   - precio: 11605.54
-  - disponible: true
+  - disponible: false
 
-- producto: "PROPLAN Puppy Complete"
+- producto: "Puppy Complete"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 31286.18
+  - precio: 32200.00
   - disponible: true
 
-- producto: "PROPLAN Puppy Complete"
+- producto: "Puppy Complete"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -1514,16 +1505,16 @@
   - precio: 86284.7
   - disponible: true
 
-- producto: "PROPLAN Puppy Complete"
+- producto: "Puppy Complete"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 106262.1
+  - precio: 105300.00
   - disponible: true
 
-- producto: "PROPLAN Puppy Large Breed"
+- producto: "Puppy Large Breed"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -1532,7 +1523,7 @@
   - precio: 31335.21
   - disponible: true
 
-- producto: "PROPLAN Puppy Large Breed"
+- producto: "Puppy Large Breed"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -1541,7 +1532,7 @@
   - precio: 106262.1
   - disponible: true
 
-- producto: "PROPLAN Adulto Raza Pequeña"
+- producto: "Adulto Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -1550,25 +1541,25 @@
   - precio: 11035.37
   - disponible: true
 
-- producto: "PROPLAN Adulto Raza Pequeña"
+- producto: "Adulto Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 29713.0
+  - precio: 30900.00
   - disponible: true
 
-- producto: "PROPLAN Adulto Raza Pequeña"
+- producto: "Adulto Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 61112.06
+  - precio: 61300.00
   - disponible: true
 
-- producto: "PROPLAN Adulto Raza Mediana"
+- producto: "Adulto Raza Mediana"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -1577,7 +1568,7 @@
   - precio: 28379.51
   - disponible: true
 
-- producto: "PROPLAN Adulto Raza Mediana"
+- producto: "Adulto Raza Mediana"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -1586,7 +1577,7 @@
   - precio: 78425.41
   - disponible: true
 
-- producto: "PROPLAN Adulto Raza Mediana"
+- producto: "Adulto Raza Mediana"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -1595,7 +1586,7 @@
   - precio: 96569.75
   - disponible: true
 
-- producto: "PROPLAN Adulto Raza Grande"
+- producto: "Adulto Raza Grande"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -1604,7 +1595,7 @@
   - precio: 28379.51
   - disponible: true
 
-- producto: "PROPLAN Adulto Raza Grande"
+- producto: "Adulto Raza Grande"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -1613,7 +1604,7 @@
   - precio: 78425.41
   - disponible: true
 
-- producto: "PROPLAN Adulto Raza Grande"
+- producto: "Adulto Raza Grande"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -1622,7 +1613,7 @@
   - precio: 96569.75
   - disponible: true
 
-- producto: "PROPLAN Active Mind Raza Pequeña"
+- producto: "Active Mind Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -1631,43 +1622,43 @@
   - precio: 12200.28
   - disponible: true
 
-- producto: "PROPLAN Active Mind Raza Pequeña"
+- producto: "Active Mind Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 32698.56
+  - precio: 40600.00
   - disponible: true
 
-- producto: "PROPLAN Active Mind Raza Pequeña"
+- producto: "Active Mind Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 68547.07
+  - precio: 69700.00
   - disponible: true
 
-- producto: "PROPLAN Active Mind Raza Mediana y Grande"
+- producto: "Active Mind Raza Mediana y Grande"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 31247.0
+  - precio: 39600.00
   - disponible: true
 
-- producto: "PROPLAN Active Mind Raza Mediana y Grande"
+- producto: "Active Mind Raza Mediana y Grande"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 108229.6
+  - precio: 107800.00
   - disponible: true
 
-- producto: "PROPLAN Reducido en Calorías Raza Pequeña"
+- producto: "Reducido en Calorías Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -1676,43 +1667,43 @@
   - precio: 12559.19
   - disponible: true
 
-- producto: "PROPLAN Reducido en Calorías Raza Pequeña"
+- producto: "Reducido en Calorías Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 34214.29
+  - precio: 42500.00
   - disponible: true
 
-- producto: "PROPLAN Reducido en Calorías Raza Pequeña"
+- producto: "Reducido en Calorías Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 71488.86
+  - precio: 82900.00
   - disponible: true
 
-- producto: "PROPLAN Reducido en Calorías Raza Med. y Gr."
+- producto: "Reducido en Calorías Raza Med. y Gr."
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 32785.04
+  - precio: 40700.00
   - disponible: true
 
-- producto: "PROPLAN Reducido en Calorías Raza Med. y Gr."
+- producto: "Reducido en Calorías Raza Med. y Gr."
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 12
   - unidad: "kg"
   - presentacion: null
-  - precio: 90574.6
+  - precio: 92000.00
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin Raza Pequeña"
+- producto: "Sensitive Skin Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -1721,43 +1712,43 @@
   - precio: 12552.5
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin Raza Pequeña"
+- producto: "Sensitive Skin Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 34186.27
+  - precio: 43300.00
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin Raza Pequeña"
+- producto: "Sensitive Skin Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 71680.1
+  - precio: 83900.00
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin Raza Med. y Grande"
+- producto: "Sensitive Skin Raza Med. y Grande"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 32662.13
+  - precio: 40600.00
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin Raza Med. y Grande"
+- producto: "Sensitive Skin Raza Med. y Grande"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 12
   - unidad: "kg"
   - presentacion: null
-  - precio: 90427.8
+  - precio: 92600.00
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin & Stomach Raza Pequeña"
+- producto: "Sensitive Skin & Stomach Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -1766,7 +1757,7 @@
   - precio: 13119.24
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin & Stomach Raza Pequeña"
+- producto: "Sensitive Skin & Stomach Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -1775,7 +1766,7 @@
   - precio: 35760.6
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin & Stomach Raza Pequeña"
+- producto: "Sensitive Skin & Stomach Raza Pequeña"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1784,7 +1775,7 @@
   - precio: 74982.72
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin & Stomach Raza Med. Y Grande"
+- producto: "Sensitive Skin & Stomach Raza Med. Y Grande"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -1793,7 +1784,7 @@
   - precio: 34177.72
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin & Stomach Raza Med. Y Grande"
+- producto: "Sensitive Skin & Stomach Raza Med. Y Grande"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -1802,7 +1793,7 @@
   - precio: 94406.73
   - disponible: true
 
-- producto: "PROPLAN Exigent Dog (small breed)"
+- producto: "Exigent Dog (small breed)"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -1811,7 +1802,7 @@
   - precio: 28034.76
   - disponible: true
 
-- producto: "PROPLAN Exigent Dog (small breed)"
+- producto: "Exigent Dog (small breed)"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1820,7 +1811,7 @@
   - precio: 58717.25
   - disponible: true
 
-- producto: "PROPLAN Perro adulto pollo"
+- producto: "Perro adulto pollo"
   - marca: "Pro Plan"
   - tipo_animal: "Perro"
   - cantidad: null
@@ -1831,7 +1822,7 @@
 
 ### PRO PLAN MEDICADOS PARA PERROS
 
-- producto: "PPVD EN (GASTROENTERIC) GASTROENTÉRICO"
+- producto: "EN (GASTROENTERIC) GASTROENTÉRICO"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1840,7 +1831,7 @@
   - precio: 19891.89
   - disponible: true
 
-- producto: "PPVD EN (GASTROENTERIC) GASTROENTÉRICO"
+- producto: "EN (GASTROENTERIC) GASTROENTÉRICO"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1849,7 +1840,7 @@
   - precio: 59135.96
   - disponible: true
 
-- producto: "PPVD NF (KIDNEY FUNCTION) NEFROLÓGICO"
+- producto: "NF (KIDNEY FUNCTION) NEFROLÓGICO"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1858,7 +1849,7 @@
   - precio: 21794.64
   - disponible: true
 
-- producto: "PPVD NF (KIDNEY FUNCTION) NEFROLÓGICO"
+- producto: "NF (KIDNEY FUNCTION) NEFROLÓGICO"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1867,7 +1858,7 @@
   - precio: 64787.78
   - disponible: true
 
-- producto: "PPVD OM (OBESITY MANAGEMENT) OBESIDAD"
+- producto: "OM (OBESITY MANAGEMENT) OBESIDAD"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1876,7 +1867,7 @@
   - precio: 20603.23
   - disponible: true
 
-- producto: "PPVD OM (OBESITY MANAGEMENT) OBESIDAD"
+- producto: "OM (OBESITY MANAGEMENT) OBESIDAD"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1885,7 +1876,7 @@
   - precio: 61801.12
   - disponible: true
 
-- producto: "PPVD UR (URINARY) Vías URINARIAS"
+- producto: "UR (URINARY) Vías URINARIAS"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1894,7 +1885,7 @@
   - precio: 19386.1
   - disponible: true
 
-- producto: "PPVD UR (URINARY) Vías URINARIAS"
+- producto: "UR (URINARY) Vías URINARIAS"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1903,7 +1894,7 @@
   - precio: 58173.28
   - disponible: true
 
-- producto: "PPVD JM (JOINT MOBILITY) MOVILIDAD ARTICULAR"
+- producto: "JM (JOINT MOBILITY) MOVILIDAD ARTICULAR"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1912,7 +1903,7 @@
   - precio: 25435.71
   - disponible: true
 
-- producto: "PPVD JM (JOINT MOBILITY) MOVILIDAD ARTICULAR"
+- producto: "JM (JOINT MOBILITY) MOVILIDAD ARTICULAR"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1921,7 +1912,7 @@
   - precio: 76304.53
   - disponible: true
 
-- producto: "PPVD NC (NEUROCARE) Neurológico"
+- producto: "NC (NEUROCARE) Neurológico"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1930,7 +1921,7 @@
   - precio: 25483.54
   - disponible: true
 
-- producto: "PPVD NC (NEUROCARE) Neurológico"
+- producto: "NC (NEUROCARE) Neurológico"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1939,7 +1930,7 @@
   - precio: 76907.33
   - disponible: true
 
-- producto: "PPVD HA HIDROLIZADO"
+- producto: "HA HIDROLIZADO"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -1948,7 +1939,7 @@
   - precio: 25483.54
   - disponible: true
 
-- producto: "PPVD HA HIDROLIZADO"
+- producto: "HA HIDROLIZADO"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1959,7 +1950,7 @@
 
 ### EXCELLENT PERRO
 
-- producto: "EXCELLENT Puppy Small Breed CH&R"
+- producto: "Puppy Small Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -1968,16 +1959,16 @@
   - precio: 6159.06
   - disponible: true
 
-- producto: "EXCELLENT Puppy Small Breed CH&R"
+- producto: "Puppy Small Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 16804.28
+  - precio: 21100.00
   - disponible: true
 
-- producto: "EXCELLENT Puppy Small Breed CH&R"
+- producto: "Puppy Small Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -1986,7 +1977,7 @@
   - precio: 35646.92
   - disponible: true
 
-- producto: "EXCELLENT Puppy Small Breed CH&R"
+- producto: "Puppy Small Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -1995,7 +1986,7 @@
   - precio: 65896.35
   - disponible: true
 
-- producto: "EXCELLENT Puppy Medium Large Breed CH&R"
+- producto: "Puppy Medium Large Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2004,7 +1995,7 @@
   - precio: 16272.84
   - disponible: true
 
-- producto: "EXCELLENT Puppy Medium Large Breed CH&R"
+- producto: "Puppy Medium Large Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2013,7 +2004,7 @@
   - precio: 63827.97
   - disponible: true
 
-- producto: "EXCELLENT Puppy Medium Large Breed CH&R"
+- producto: "Puppy Medium Large Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 20
@@ -2022,7 +2013,7 @@
   - precio: 77971.12
   - disponible: true
 
-- producto: "EXCELLENT Adult Small Breed CH&R"
+- producto: "Adult Small Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -2031,16 +2022,16 @@
   - precio: 5616.01
   - disponible: true
 
-- producto: "EXCELLENT Adult Small Breed CH&R"
+- producto: "Adult Small Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 15368.83
+  - precio: 19400.00
   - disponible: true
 
-- producto: "EXCELLENT Adult Small Breed CH&R"
+- producto: "Adult Small Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -2049,16 +2040,16 @@
   - precio: 32616.87
   - disponible: true
 
-- producto: "EXCELLENT Adult Small Breed CH&R"
+- producto: "Adult Small Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 59394.53
+  - precio: 61300.00
   - disponible: true
 
-- producto: "EXCELLENT Adult Medium Large Breed CH&R"
+- producto: "Adult Medium Large Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2067,7 +2058,7 @@
   - precio: 14754.18
   - disponible: true
 
-- producto: "EXCELLENT Adult Medium Large Breed CH&R"
+- producto: "Adult Medium Large Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2076,7 +2067,7 @@
   - precio: 57876.97
   - disponible: true
 
-- producto: "EXCELLENT Adult Medium Large Breed CH&R"
+- producto: "Adult Medium Large Breed CH&R"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 20
@@ -2085,43 +2076,43 @@
   - precio: 67703.57
   - disponible: true
 
-- producto: "EXCELLENT Adult (+ 7)"
+- producto: "Adult (+ 7)"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 16237.14
+  - precio: 20600.00
   - disponible: true
 
-- producto: "EXCELLENT Adult (+ 7)"
+- producto: "Adult (+ 7)"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 63675.64
+  - precio: 71600.00
   - disponible: true
 
-- producto: "EXCELLENT Reducido en Calorías"
+- producto: "Reducido en Calorías"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 16964.72
+  - precio: 21600.00
   - disponible: true
 
-- producto: "EXCELLENT Reducido en Calorías"
+- producto: "Reducido en Calorías"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 66563.28
+  - precio: 73900.00
   - disponible: true
 
-- producto: "EXCELLENT Adulto Skin Care Cordero"
+- producto: "Adulto Skin Care Cordero"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2130,7 +2121,7 @@
   - precio: 16382.56
   - disponible: true
 
-- producto: "EXCELLENT Adulto Skin Care Cordero"
+- producto: "Adulto Skin Care Cordero"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2139,27 +2130,27 @@
   - precio: 62517.31
   - disponible: true
 
-- producto: "EXCELLENT Formula Puppy"
+- producto: "Formula Puppy"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 56668.34
+  - precio: 79700.00
   - disponible: true
 
-- producto: "EXCELLENT Formula Adulto"
+- producto: "Formula Adulto"
   - marca: "Excellent"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 51636.38
+  - precio: 69200.00
   - disponible: true
 
 ### DOG CHOW
 
-- producto: "DOG CHOW Cachorro Mini & Pequeño"
+- producto: "Cachorro Mini & Pequeño"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 1.5
@@ -2168,25 +2159,25 @@
   - precio: 5628.23
   - disponible: true
 
-- producto: "DOG CHOW Cachorro Mini & Pequeño"
+- producto: "Cachorro Mini & Pequeño"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 10244.12
+  - precio: 14300.00
   - disponible: true
 
-- producto: "DOG CHOW Cachorro Mini & Pequeño"
+- producto: "Cachorro Mini & Pequeño"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 21
   - unidad: "kg"
   - presentacion: null
-  - precio: 59711.72
+  - precio: 58500.00
   - disponible: true
 
-- producto: "DOG CHOW Cachorro Mediano & Grande"
+- producto: "Cachorro Mediano & Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 1.5
@@ -2195,16 +2186,16 @@
   - precio: 5379.78
   - disponible: true
 
-- producto: "DOG CHOW Cachorro Mediano & Grande"
+- producto: "Cachorro Mediano & Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 9789.94
+  - precio: 13900.00
   - disponible: true
 
-- producto: "DOG CHOW Cachorro Mediano & Grande"
+- producto: "Cachorro Mediano & Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 8
@@ -2213,7 +2204,7 @@
   - precio: 23791.2
   - disponible: true
 
-- producto: "DOG CHOW Cachorro Mediano & Grande"
+- producto: "Cachorro Mediano & Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2222,16 +2213,16 @@
   - precio: 42769.63
   - disponible: true
 
-- producto: "DOG CHOW Cachorro Mediano & Grande"
+- producto: "Cachorro Mediano & Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 21
   - unidad: "kg"
   - presentacion: null
-  - precio: 57049.43
+  - precio: 56400.00
   - disponible: true
 
-- producto: "DOG CHOW Adulto Mini & Pequeño"
+- producto: "Adulto Mini & Pequeño"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 1.5
@@ -2240,16 +2231,16 @@
   - precio: 5217.0
   - disponible: true
 
-- producto: "DOG CHOW Adulto Mini & Pequeño"
+- producto: "Adulto Mini & Pequeño"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 9503.4
+  - precio: 12700.00
   - disponible: true
 
-- producto: "DOG CHOW Adulto Mini & Pequeño"
+- producto: "Adulto Mini & Pequeño"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 8
@@ -2258,16 +2249,16 @@
   - precio: 23077.72
   - disponible: true
 
-- producto: "DOG CHOW Adulto Mini & Pequeño"
+- producto: "Adulto Mini & Pequeño"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 52715.88
+  - precio: 51600.00
   - disponible: true
 
-- producto: "DOG CHOW Adulto Mediano y Grande"
+- producto: "Adulto Mediano y Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 1.5
@@ -2276,16 +2267,16 @@
   - precio: 4935.39
   - disponible: true
 
-- producto: "DOG CHOW Adulto Mediano y Grande"
+- producto: "Adulto Mediano y Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 8993.9
+  - precio: 12000.00
   - disponible: true
 
-- producto: "DOG CHOW Adulto Mediano y Grande"
+- producto: "Adulto Mediano y Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 8
@@ -2294,7 +2285,7 @@
   - precio: 21851.69
   - disponible: true
 
-- producto: "DOG CHOW Adulto Mediano y Grande"
+- producto: "Adulto Mediano y Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2303,16 +2294,16 @@
   - precio: 39292.92
   - disponible: true
 
-- producto: "DOG CHOW Adulto Mediano y Grande"
+- producto: "Adulto Mediano y Grande"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 49909.68
+  - precio: 48900.00
   - disponible: true
 
-- producto: "DOG CHOW Adulto Alta Proteina"
+- producto: "Adulto Alta Proteina"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -2321,7 +2312,7 @@
   - precio: 3456.96
   - disponible: true
 
-- producto: "DOG CHOW Adulto Alta Proteina"
+- producto: "Adulto Alta Proteina"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 2.7
@@ -2330,7 +2321,7 @@
   - precio: 8494.61
   - disponible: true
 
-- producto: "DOG CHOW Adulto Alta Proteina"
+- producto: "Adulto Alta Proteina"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 8
@@ -2339,7 +2330,7 @@
   - precio: 22939.05
   - disponible: true
 
-- producto: "DOG CHOW Adulto Alta Proteina"
+- producto: "Adulto Alta Proteina"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 21
@@ -2348,7 +2339,7 @@
   - precio: 55023.63
   - disponible: true
 
-- producto: "DOG CHOW Longevidad"
+- producto: "Longevidad"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2357,7 +2348,7 @@
   - precio: 9891.7
   - disponible: true
 
-- producto: "DOG CHOW Longevidad"
+- producto: "Longevidad"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 8
@@ -2366,7 +2357,7 @@
   - precio: 23609.27
   - disponible: true
 
-- producto: "DOG CHOW Longevidad"
+- producto: "Longevidad"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2375,7 +2366,7 @@
   - precio: 43228.18
   - disponible: true
 
-- producto: "DOG CHOW Longevidad"
+- producto: "Longevidad"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: 21
@@ -2384,7 +2375,7 @@
   - precio: 57638.09
   - disponible: true
 
-- producto: "DOG CHOW Cachorro Pollo"
+- producto: "Cachorro Pollo"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: null
@@ -2393,7 +2384,7 @@
   - precio: 16377.07
   - disponible: true
 
-- producto: "DOG CHOW Adulto Pavo"
+- producto: "Adulto Pavo"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: null
@@ -2402,7 +2393,7 @@
   - precio: 16377.07
   - disponible: true
 
-- producto: "DOG CHOW Adt. Peq. Salmon"
+- producto: "Adt. Peq. Salmon"
   - marca: "Dog Chow"
   - tipo_animal: "Perro"
   - cantidad: null
@@ -2413,7 +2404,8 @@
 
 ### PURINA DENTALIFE
 
-- producto: "PURINA DENTALIFE Perros Razas Pequeñas"
+- producto: "Perros Razas Pequeñas"
+  - marca: "Purina Dentalife"
   - tipo_animal: "Perro"
   - cantidad: 0.42
   - unidad: "kg"
@@ -2421,7 +2413,8 @@
   - precio: 18719.28
   - disponible: true
 
-- producto: "PURINA DENTALIFE Perro Razas Medianas"
+- producto: "Perro Razas Medianas"
+  - marca: "Purina Dentalife"
   - tipo_animal: "Perro"
   - cantidad: 0.119
   - unidad: "kg"
@@ -2429,7 +2422,8 @@
   - precio: 22390.85
   - disponible: true
 
-- producto: "PURINA DENTALIFE Perro Razas Grandes"
+- producto: "Perro Razas Grandes"
+  - marca: "Purina Dentalife"
   - tipo_animal: "Perro"
   - cantidad: 0.196
   - unidad: "kg"
@@ -2439,7 +2433,7 @@
 
 ### DOGUI
 
-- producto: "DOGUI Cachorros"
+- producto: "Cachorros"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 1.5
@@ -2448,7 +2442,7 @@
   - precio: 4314.36
   - disponible: true
 
-- producto: "DOGUI Cachorros"
+- producto: "Cachorros"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2457,7 +2451,7 @@
   - precio: 7696.64
   - disponible: true
 
-- producto: "DOGUI Cachorros"
+- producto: "Cachorros"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 8
@@ -2466,7 +2460,7 @@
   - precio: 17890.26
   - disponible: true
 
-- producto: "DOGUI Cachorros"
+- producto: "Cachorros"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2475,16 +2469,16 @@
   - precio: 31187.1
   - disponible: true
 
-- producto: "DOGUI Cachorros"
+- producto: "Cachorros"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 21
   - unidad: "kg"
   - presentacion: null
-  - precio: 39845.96
+  - precio: 40000.00
   - disponible: true
 
-- producto: "DOGUI Adultos"
+- producto: "Adultos"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 1.5
@@ -2493,7 +2487,7 @@
   - precio: 3899.44
   - disponible: true
 
-- producto: "DOGUI Adultos"
+- producto: "Adultos"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2502,7 +2496,7 @@
   - precio: 6994.81
   - disponible: true
 
-- producto: "DOGUI Adultos"
+- producto: "Adultos"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 8
@@ -2511,7 +2505,7 @@
   - precio: 16241.28
   - disponible: true
 
-- producto: "DOGUI Adultos"
+- producto: "Adultos"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2520,18 +2514,18 @@
   - precio: 28256.94
   - disponible: true
 
-- producto: "DOGUI Adultos"
+- producto: "Adultos"
   - marca: "Dogui"
   - tipo_animal: "Perro"
   - cantidad: 21
   - unidad: "kg"
   - presentacion: null
-  - precio: 36287.0
+  - precio: 35900.00
   - disponible: true
 
 ### BONELO Perros
 
-- producto: "BONELO Perro Cachorro"
+- producto: "Perro Cachorro"
   - marca: "Bonelo"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2540,18 +2534,18 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "BONELO Perro Adulto"
+- producto: "Perro Adulto"
   - marca: "Bonelo"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 39141.8
+  - precio: 44800.00
   - disponible: true
 
 ### BALANCED PERRO
 
-- producto: "BALANCED Puppy Raza Pequeña"
+- producto: "Puppy Raza Pequeña"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -2560,7 +2554,7 @@
   - precio: 5328.01
   - disponible: true
 
-- producto: "BALANCED Puppy Raza Pequeña"
+- producto: "Puppy Raza Pequeña"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2569,16 +2563,16 @@
   - precio: 15193.74
   - disponible: true
 
-- producto: "BALANCED Puppy Raza Pequeña"
+- producto: "Puppy Raza Pequeña"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 35621.52
+  - precio: 38300.00
   - disponible: true
 
-- producto: "BALANCED Puppy Raza mediana"
+- producto: "Puppy Raza mediana"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -2587,7 +2581,7 @@
   - precio: 5328.01
   - disponible: true
 
-- producto: "BALANCED Puppy Raza mediana"
+- producto: "Puppy Raza mediana"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2596,7 +2590,7 @@
   - precio: 14640.51
   - disponible: true
 
-- producto: "BALANCED Puppy Raza mediana"
+- producto: "Puppy Raza mediana"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -2605,16 +2599,16 @@
   - precio: 45427.09
   - disponible: true
 
-- producto: "BALANCED Puppy Raza mediana"
+- producto: "Puppy Raza mediana"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 72828.47
+  - precio: 77300.00
   - disponible: true
 
-- producto: "BALANCED Puppy Raza Grande"
+- producto: "Puppy Raza Grande"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -2623,7 +2617,7 @@
   - precio: 5328.01
   - disponible: true
 
-- producto: "BALANCED Puppy Raza Grande"
+- producto: "Puppy Raza Grande"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2632,7 +2626,7 @@
   - precio: 14640.51
   - disponible: true
 
-- producto: "BALANCED Puppy Raza Grande"
+- producto: "Puppy Raza Grande"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2641,16 +2635,16 @@
   - precio: 56383.69
   - disponible: true
 
-- producto: "BALANCED Puppy Raza Grande"
+- producto: "Puppy Raza Grande"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 72828.47
+  - precio: 77300.00
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Pequeña"
+- producto: "Perro Adulto Raza Pequeña"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2659,16 +2653,16 @@
   - precio: 14086.65
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Pequeña"
+- producto: "Perro Adulto Raza Pequeña"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 29836.92
+  - precio: 32000.00
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Pequeña"
+- producto: "Perro Adulto Raza Pequeña"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2677,7 +2671,7 @@
   - precio: 50571.73
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Mediana"
+- producto: "Perro Adulto Raza Mediana"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2686,7 +2680,7 @@
   - precio: 13709.61
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Mediana"
+- producto: "Perro Adulto Raza Mediana"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -2695,16 +2689,16 @@
   - precio: 40756.0
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Mediana"
+- producto: "Perro Adulto Raza Mediana"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 59414.53
+  - precio: 63300.00
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Grande"
+- producto: "Perro Adulto Raza Grande"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2713,7 +2707,7 @@
   - precio: 13709.61
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Grande"
+- producto: "Perro Adulto Raza Grande"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2722,25 +2716,25 @@
   - precio: 49062.66
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Grande"
+- producto: "Perro Adulto Raza Grande"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 59414.53
+  - precio: 63400.00
   - disponible: true
 
-- producto: "BALANCED Perro Adulto Raza Gigante"
+- producto: "Perro Adulto Raza Gigante"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 66406.81
-  - disponible: true
+  - precio: 66750.00
+  - disponible: false
 
-- producto: "BALANCED Perro Control Peso Allages"
+- producto: "Perro Control Peso Allages"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2749,7 +2743,7 @@
   - precio: 15730.93
   - disponible: true
 
-- producto: "BALANCED Perro Control Peso Allages"
+- producto: "Perro Control Peso Allages"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -2758,16 +2752,16 @@
   - precio: 44885.62
   - disponible: true
 
-- producto: "BALANCED Perro Control Peso Allages"
+- producto: "Perro Control Peso Allages"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 74159.66
+  - precio: 78800.00
   - disponible: true
 
-- producto: "BALANCED Perro Senior Raza Pequeña"
+- producto: "Perro Senior Raza Pequeña"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2776,7 +2770,7 @@
   - precio: 15193.74
   - disponible: true
 
-- producto: "BALANCED Perro Senior Raza Pequeña"
+- producto: "Perro Senior Raza Pequeña"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -2785,7 +2779,7 @@
   - precio: 34575.66
   - disponible: true
 
-- producto: "BALANCED Perro Senior Raza Mediana"
+- producto: "Perro Senior Raza Mediana"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2794,16 +2788,16 @@
   - precio: 14640.51
   - disponible: true
 
-- producto: "BALANCED Perro Senior Raza Mediana"
+- producto: "Perro Senior Raza Mediana"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 12
   - unidad: "kg"
   - presentacion: null
-  - precio: 42716.91
-  - disponible: true
+  - precio: 40450.00
+  - disponible: false
 
-- producto: "BALANCED Perro Senior Raza Grande"
+- producto: "Perro Senior Raza Grande"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2812,16 +2806,16 @@
   - precio: 14640.51
   - disponible: true
 
-- producto: "BALANCED Perro Senior Raza Grande"
+- producto: "Perro Senior Raza Grande"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 54229.14
-  - disponible: true
+  - precio: 53000.00
+  - disponible: false
 
-- producto: "BALANCED Perro Recipe Cerdo y Arroz"
+- producto: "Perro Recipe Cerdo y Arroz"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2830,7 +2824,7 @@
   - precio: 15713.2
   - disponible: true
 
-- producto: "BALANCED Perro Recipe Cerdo y Arroz"
+- producto: "Perro Recipe Cerdo y Arroz"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2839,7 +2833,7 @@
   - precio: 57405.86
   - disponible: true
 
-- producto: "BALANCED Perro Recipe Cordero y Arroz"
+- producto: "Perro Recipe Cordero y Arroz"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2848,7 +2842,7 @@
   - precio: 15713.2
   - disponible: true
 
-- producto: "BALANCED Perro Recipe Cordero y Arroz"
+- producto: "Perro Recipe Cordero y Arroz"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -2857,7 +2851,7 @@
   - precio: 57405.86
   - disponible: true
 
-- producto: "BALANCED Perro Recipe Pollo"
+- producto: "Perro Recipe Pollo"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2866,16 +2860,16 @@
   - precio: 15713.2
   - disponible: true
 
-- producto: "BALANCED Perro Recipe Pollo"
+- producto: "Perro Recipe Pollo"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 57405.86
+  - precio: 63000.00
   - disponible: true
 
-- producto: "BALANCED Perro Recipe Carne"
+- producto: "Perro Recipe Carne"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2884,16 +2878,16 @@
   - precio: 15713.2
   - disponible: true
 
-- producto: "BALANCED Perro Recipe Carne"
+- producto: "Perro Recipe Carne"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 57405.86
+  - precio: 63000.00
   - disponible: true
 
-- producto: "BALANCED Perro Recipe Salmon"
+- producto: "Perro Recipe Salmon"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2902,18 +2896,18 @@
   - precio: 15713.2
   - disponible: true
 
-- producto: "BALANCED Perro Recipe Salmon"
+- producto: "Perro Recipe Salmon"
   - marca: "Balanced"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 57405.86
+  - precio: 63000.00
   - disponible: true
 
 ### COMPLETE PERRO
 
-- producto: "COMPLETE Junior Razas Pequeñas"
+- producto: "Junior Razas Pequeñas"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2922,7 +2916,7 @@
   - precio: 9868.01
   - disponible: true
 
-- producto: "COMPLETE Junior Razas Pequeñas"
+- producto: "Junior Razas Pequeñas"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -2931,16 +2925,16 @@
   - precio: 20548.3
   - disponible: true
 
-- producto: "COMPLETE Junior Razas Pequeñas"
+- producto: "Junior Razas Pequeñas"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 49287.47
+  - precio: 52600.00
   - disponible: true
 
-- producto: "COMPLETE Junior Razas Med y Gr"
+- producto: "Junior Razas Med y Gr"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2949,16 +2943,16 @@
   - precio: 9124.69
   - disponible: true
 
-- producto: "COMPLETE Junior Razas Med y Gr"
+- producto: "Junior Razas Med y Gr"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 49287.47
+  - precio: 52600.00
   - disponible: true
 
-- producto: "COMPLETE Adulto Razas Pequeñas"
+- producto: "Adulto Razas Pequeñas"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2967,7 +2961,7 @@
   - precio: 9290.59
   - disponible: true
 
-- producto: "COMPLETE Adulto Razas Pequeñas"
+- producto: "Adulto Razas Pequeñas"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -2976,16 +2970,16 @@
   - precio: 19460.38
   - disponible: true
 
-- producto: "COMPLETE Adulto Razas Pequeñas"
+- producto: "Adulto Razas Pequeñas"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 47101.22
+  - precio: 50100.00
   - disponible: true
 
-- producto: "COMPLETE Adulto Razas Med y Gr Pollo"
+- producto: "Adulto Razas Med y Gr Pollo"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -2994,16 +2988,16 @@
   - precio: 9290.59
   - disponible: true
 
-- producto: "COMPLETE Adulto Razas Med y Gr Pollo"
+- producto: "Adulto Razas Med y Gr Pollo"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 44704.14
+  - precio: 47600.00
   - disponible: true
 
-- producto: "COMPLETE Adulto Razas Med y Gr Pollo"
+- producto: "Adulto Razas Med y Gr Pollo"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 24
@@ -3012,7 +3006,7 @@
   - precio: 56502.21
   - disponible: true
 
-- producto: "COMPLETE Senior"
+- producto: "Senior"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3021,7 +3015,7 @@
   - precio: 9722.28
   - disponible: true
 
-- producto: "COMPLETE Senior"
+- producto: "Senior"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 20
@@ -3030,7 +3024,7 @@
   - precio: 51490.93
   - disponible: true
 
-- producto: "COMPLETE Control de Peso"
+- producto: "Control de Peso"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3039,74 +3033,81 @@
   - precio: 9722.28
   - disponible: true
 
-- producto: "COMPLETE Control de Peso"
+- producto: "Control de Peso"
   - marca: "Complete"
   - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 50554.73
+  - precio: 67000.00
   - disponible: true
 
 ### BELCAN
 
-- producto: "BELCAN Junior"
+- producto: "Junior"
   - marca: "Belcan"
+  - tipo_animal: "Perro"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "BELCAN Junior"
+- producto: "Junior"
   - marca: "Belcan"
+  - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "BELCAN Junior"
+- producto: "Junior"
   - marca: "Belcan"
+  - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "BELCAN Adulto"
+- producto: "Adulto"
   - marca: "Belcan"
+  - tipo_animal: "Perro"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "BELCAN Adulto"
+- producto: "Adulto"
   - marca: "Belcan"
+  - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "BELCAN Adulto"
+- producto: "Adulto"
   - marca: "Belcan"
+  - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "BELCAN Adulto"
+- producto: "Adulto"
   - marca: "Belcan"
+  - tipo_animal: "Perro"
   - cantidad: 22
   - unidad: "kg"
   - presentacion: null
   - precio: 25117.02
   - disponible: true
 
-- producto: "BELCAN Perro Adulto Safety Pack"
+- producto: "Perro Adulto Safety Pack"
   - marca: "Belcan"
   - tipo_animal: "Perro"
   - cantidad: 24
@@ -3117,7 +3118,7 @@
 
 ### THERAPY PERRO
 
-- producto: "THERAPY CANINE Cardiac Health"
+- producto: "CANINE Cardiac Health"
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -3126,16 +3127,16 @@
   - precio: 18233.19
   - disponible: true
 
-- producto: "THERAPY CANINE Cardiac Health"
+- producto: "CANINE Cardiac Health"
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
-  - precio: 65059.5
-  - disponible: true
+  - precio: 69000.00
+  - disponible: false
 
-- producto: "THERAPY CANINE Gastrointestinal"
+- producto: "CANINE Gastrointestinal"
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -3144,16 +3145,16 @@
   - precio: 14933.27
   - disponible: true
 
-- producto: "THERAPY CANINE Gastrointestinal"
+- producto: "CANINE Gastrointestinal"
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
-  - precio: 55288.61
-  - disponible: true
+  - precio: 62000.00
+  - disponible: false
 
-- producto: "THERAPY CANINE Hypoallergenic"
+- producto: "CANINE Hypoallergenic"
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -3162,16 +3163,16 @@
   - precio: 20516.7
   - disponible: true
 
-- producto: "THERAPY CANINE Hypoallergenic"
+- producto: "CANINE Hypoallergenic"
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
-  - precio: 74331.24
-  - disponible: true
+  - precio: 80000.00
+  - disponible: false
 
-- producto: "THERAPY CANINE Mobility Aid."
+- producto: "CANINE Mobility Aid."
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -3180,7 +3181,7 @@
   - precio: 17272.45
   - disponible: true
 
-- producto: "THERAPY CANINE Mobility Aid."
+- producto: "CANINE Mobility Aid."
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3189,7 +3190,7 @@
   - precio: 88498.7
   - disponible: true
 
-- producto: "THERAPY CANINE Obesity Mgnt."
+- producto: "CANINE Obesity Mgnt."
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -3198,7 +3199,7 @@
   - precio: 16764.23
   - disponible: true
 
-- producto: "THERAPY CANINE Obesity Mgnt."
+- producto: "CANINE Obesity Mgnt."
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3207,7 +3208,7 @@
   - precio: 87138.0
   - disponible: true
 
-- producto: "THERAPY CANINE Renal Care"
+- producto: "CANINE Renal Care"
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 2
@@ -3216,18 +3217,18 @@
   - precio: 14508.59
   - disponible: true
 
-- producto: "THERAPY CANINE Renal Care"
+- producto: "CANINE Renal Care"
   - marca: "Therapy"
   - tipo_animal: "Perro"
   - cantidad: 10
   - unidad: "kg"
   - presentacion: null
   - precio: 57503.99
-  - disponible: true
+  - disponible: false
 
 ### NUTRIQUE PERRO
 
-- producto: "NUTRIQUE Toy & Mini Puppy"
+- producto: "Toy & Mini Puppy"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -3236,7 +3237,7 @@
   - precio: 11553.74
   - disponible: true
 
-- producto: "NUTRIQUE Toy & Mini Puppy"
+- producto: "Toy & Mini Puppy"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3245,7 +3246,7 @@
   - precio: 31819.58
   - disponible: true
 
-- producto: "NUTRIQUE Medium Puppy"
+- producto: "Medium Puppy"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -3254,7 +3255,7 @@
   - precio: 11553.74
   - disponible: true
 
-- producto: "NUTRIQUE Medium Puppy"
+- producto: "Medium Puppy"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3263,7 +3264,7 @@
   - precio: 31819.58
   - disponible: true
 
-- producto: "NUTRIQUE Medium Puppy"
+- producto: "Medium Puppy"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -3272,7 +3273,7 @@
   - precio: 77792.6
   - disponible: true
 
-- producto: "NUTRIQUE Large Puppy"
+- producto: "Large Puppy"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -3281,7 +3282,7 @@
   - precio: 11553.74
   - disponible: true
 
-- producto: "NUTRIQUE Large Puppy"
+- producto: "Large Puppy"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3290,7 +3291,7 @@
   - precio: 101854.91
   - disponible: true
 
-- producto: "NUTRIQUE Toy & Mini Young Adult Dog"
+- producto: "Toy & Mini Young Adult Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 0.35
@@ -3299,7 +3300,7 @@
   - precio: 4022.23
   - disponible: true
 
-- producto: "NUTRIQUE Toy & Mini Young Adult Dog"
+- producto: "Toy & Mini Young Adult Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3308,7 +3309,7 @@
   - precio: 28904.7
   - disponible: true
 
-- producto: "NUTRIQUE Toy & Mini Young Adult Dog"
+- producto: "Toy & Mini Young Adult Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -3317,7 +3318,7 @@
   - precio: 60847.44
   - disponible: true
 
-- producto: "NUTRIQUE Medium Young Adult Dog"
+- producto: "Medium Young Adult Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 0.35
@@ -3326,7 +3327,7 @@
   - precio: 4022.23
   - disponible: true
 
-- producto: "NUTRIQUE Medium Young Adult Dog"
+- producto: "Medium Young Adult Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3335,7 +3336,7 @@
   - precio: 28904.7
   - disponible: true
 
-- producto: "NUTRIQUE Medium Young Adult Dog"
+- producto: "Medium Young Adult Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -3344,7 +3345,7 @@
   - precio: 72258.85
   - disponible: true
 
-- producto: "NUTRIQUE Large Young Adult Dog"
+- producto: "Large Young Adult Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 0.35
@@ -3353,7 +3354,7 @@
   - precio: 4022.23
   - disponible: true
 
-- producto: "NUTRIQUE Large Young Adult Dog"
+- producto: "Large Young Adult Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3362,7 +3363,7 @@
   - precio: 28904.7
   - disponible: true
 
-- producto: "NUTRIQUE Large Young Adult Dog"
+- producto: "Large Young Adult Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3371,7 +3372,7 @@
   - precio: 90403.52
   - disponible: true
 
-- producto: "NUTRIQUE Healthy Weight Dog"
+- producto: "Healthy Weight Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3380,7 +3381,7 @@
   - precio: 30150.44
   - disponible: true
 
-- producto: "NUTRIQUE Healthy Weight Dog"
+- producto: "Healthy Weight Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3389,7 +3390,7 @@
   - precio: 95825.33
   - disponible: true
 
-- producto: "NUTRIQUE Skin Sensitivity Dog"
+- producto: "Skin Sensitivity Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3398,7 +3399,7 @@
   - precio: 31819.58
   - disponible: true
 
-- producto: "NUTRIQUE Skin Sensitivity Dog"
+- producto: "Skin Sensitivity Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3407,7 +3408,7 @@
   - precio: 98576.24
   - disponible: true
 
-- producto: "NUTRIQUE Toy & Mini Adult 7+ Dog"
+- producto: "Toy & Mini Adult 7+ Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3416,7 +3417,7 @@
   - precio: 30150.44
   - disponible: true
 
-- producto: "NUTRIQUE Medium Adult 7+ Dog"
+- producto: "Medium Adult 7+ Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3425,7 +3426,7 @@
   - precio: 30150.44
   - disponible: true
 
-- producto: "NUTRIQUE Medium Adult 7+ Dog"
+- producto: "Medium Adult 7+ Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 12
@@ -3434,7 +3435,7 @@
   - precio: 77256.83
   - disponible: true
 
-- producto: "NUTRIQUE Large Adult 6+ Dog"
+- producto: "Large Adult 6+ Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3443,7 +3444,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "NUTRIQUE Large Adult 6+ Dog"
+- producto: "Large Adult 6+ Dog"
   - marca: "Nutrique"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3454,7 +3455,7 @@
 
 ### PREMIUM PERRO
 
-- producto: "PREMIUM Perro Junior"
+- producto: "Perro Junior"
   - marca: "Premium"
   - tipo_animal: "Perro"
   - cantidad: 20
@@ -3463,7 +3464,7 @@
   - precio: 45219.9
   - disponible: true
 
-- producto: "PREMIUM Perro Adult Small"
+- producto: "Perro Adult Small"
   - marca: "Premium"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -3472,7 +3473,7 @@
   - precio: 16240.95
   - disponible: true
 
-- producto: "PREMIUM Perro Adult Small"
+- producto: "Perro Adult Small"
   - marca: "Premium"
   - tipo_animal: "Perro"
   - cantidad: 20
@@ -3481,7 +3482,7 @@
   - precio: 38957.05
   - disponible: true
 
-- producto: "PREMIUM Perro Adult Mediano"
+- producto: "Perro Adult Mediano"
   - marca: "Premium"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3490,7 +3491,7 @@
   - precio: 29297.4
   - disponible: true
 
-- producto: "PREMIUM Perro Adult Mediano"
+- producto: "Perro Adult Mediano"
   - marca: "Premium"
   - tipo_animal: "Perro"
   - cantidad: 20
@@ -3499,7 +3500,7 @@
   - precio: 38957.05
   - disponible: true
 
-- producto: "PREMIUM Perro Adult Safety"
+- producto: "Perro Adult Safety"
   - marca: "Premium"
   - tipo_animal: "Perro"
   - cantidad: 24
@@ -3508,7 +3509,7 @@
   - precio: 48935.15
   - disponible: true
 
-- producto: "PREMIUM Perro Cordero"
+- producto: "Perro Cordero"
   - marca: "Premium"
   - tipo_animal: "Perro"
   - cantidad: 20
@@ -3519,7 +3520,7 @@
 
 ### EUKANUBA PERRO
 
-- producto: "EUKANUBA Puppy Small"
+- producto: "Puppy Small"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -3528,43 +3529,25 @@
   - precio: 7217.46
   - disponible: true
 
-- producto: "EUKANUBA Puppy Small"
+- producto: "Puppy Small"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 19568.31
+  - precio: 20000.00
   - disponible: true
 
-- producto: "EUKANUBA Puppy Small"
+- producto: "Puppy Small"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 73671.71
+  - precio: 76900.00
   - disponible: true
 
-- producto: "EUKANUBA Puppy Medium"
-  - marca: "Eukanuba"
-  - tipo_animal: "Perro"
-  - cantidad: 3
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 19246.23
-  - disponible: true
-
-- producto: "EUKANUBA Puppy Medium"
-  - marca: "Eukanuba"
-  - tipo_animal: "Perro"
-  - cantidad: 15
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 70032.66
-  - disponible: true
-
-- producto: "EUKANUBA Puppy Large"
+- producto: "Puppy Medium"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3573,16 +3556,34 @@
   - precio: 19246.23
   - disponible: true
 
-- producto: "EUKANUBA Puppy Large"
+- producto: "Puppy Medium"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 70032.66
+  - precio: 73100.00
   - disponible: true
 
-- producto: "EUKANUBA Adult Small"
+- producto: "Puppy Large"
+  - marca: "Eukanuba"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 19246.23
+  - disponible: true
+
+- producto: "Puppy Large"
+  - marca: "Eukanuba"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 73100.00
+  - disponible: true
+
+- producto: "Adult Small"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 1
@@ -3591,16 +3592,16 @@
   - precio: 6902.36
   - disponible: true
 
-- producto: "EUKANUBA Adult Small"
+- producto: "Adult Small"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 18909.19
+  - precio: 20000.00
   - disponible: true
 
-- producto: "EUKANUBA Adult Small"
+- producto: "Adult Small"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 7.5
@@ -3609,16 +3610,16 @@
   - precio: 43505.2
   - disponible: true
 
-- producto: "EUKANUBA Adult Small"
+- producto: "Adult Small"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 71824.75
+  - precio: 74500.00
   - disponible: true
 
-- producto: "EUKANUBA Adult Medium"
+- producto: "Adult Medium"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3627,16 +3628,16 @@
   - precio: 18521.29
   - disponible: true
 
-- producto: "EUKANUBA Adult Medium"
+- producto: "Adult Medium"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 69736.76
+  - precio: 72400.00
   - disponible: true
 
-- producto: "EUKANUBA Adult Large"
+- producto: "Adult Large"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3645,25 +3646,25 @@
   - precio: 18441.52
   - disponible: true
 
-- producto: "EUKANUBA Adult Large"
+- producto: "Adult Large"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 69444.77
+  - precio: 72400.00
   - disponible: true
 
-- producto: "EUKANUBA Senior Small"
+- producto: "Senior Small"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 20205.5
+  - precio: 20800.00
   - disponible: true
 
-- producto: "EUKANUBA Senior Medium"
+- producto: "Senior Medium"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3672,16 +3673,16 @@
   - precio: 19750.79
   - disponible: true
 
-- producto: "EUKANUBA Senior Medium"
+- producto: "Senior Medium"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 73245.49
+  - precio: 76200.00
   - disponible: true
 
-- producto: "EUKANUBA Senior Large"
+- producto: "Senior Large"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3690,25 +3691,25 @@
   - precio: 19293.1
   - disponible: true
 
-- producto: "EUKANUBA Senior Large"
+- producto: "Senior Large"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 72948.61
+  - precio: 76200.00
   - disponible: true
 
-- producto: "EUKANUBA Weight Control Small"
+- producto: "Weight Control Small"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 20785.85
+  - precio: 21200.00
   - disponible: true
 
-- producto: "EUKANUBA Weight Control Medium"
+- producto: "Weight Control Medium"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3717,16 +3718,16 @@
   - precio: 20432.85
   - disponible: true
 
-- producto: "EUKANUBA Weight Control Medium"
+- producto: "Weight Control Medium"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 77544.94
-  - disponible: true
+  - precio: 61400.00
+  - disponible: false
 
-- producto: "EUKANUBA Weight Control Large"
+- producto: "Weight Control Large"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3735,16 +3736,16 @@
   - precio: 20186.55
   - disponible: true
 
-- producto: "EUKANUBA Weight Control Large"
+- producto: "Weight Control Large"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 78250.42
-  - disponible: true
+  - precio: 68800.00
+  - disponible: false
 
-- producto: "EUKANUBA Premium Performance Puppy"
+- producto: "Premium Performance Puppy"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3753,7 +3754,7 @@
   - precio: 74836.04
   - disponible: true
 
-- producto: "EUKANUBA Premium Performance Adulto"
+- producto: "Premium Performance Adulto"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3762,7 +3763,7 @@
   - precio: 74946.72
   - disponible: true
 
-- producto: "EUKANUBA Lamb Puppy"
+- producto: "Lamb Puppy"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3771,7 +3772,7 @@
   - precio: 18685.82
   - disponible: true
 
-- producto: "EUKANUBA Lamb Puppy"
+- producto: "Lamb Puppy"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3780,7 +3781,7 @@
   - precio: 66697.35
   - disponible: true
 
-- producto: "EUKANUBA Lamb Adulto"
+- producto: "Lamb Adulto"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 3
@@ -3789,7 +3790,7 @@
   - precio: 17981.83
   - disponible: true
 
-- producto: "EUKANUBA Lamb Adulto"
+- producto: "Lamb Adulto"
   - marca: "Eukanuba"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3800,7 +3801,7 @@
 
 ### IAMS PERRO
 
-- producto: "IAMS Perro Adulto Small y Medium"
+- producto: "Perro Adulto Small y Medium"
   - marca: "Iams"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3809,7 +3810,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "IAMS Perro Adulto Large"
+- producto: "Perro Adulto Large"
   - marca: "Iams"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -3820,88 +3821,88 @@
 
 ### FAWNA
 
-- producto: "FAWNA Perro Cachorro Pequeño 3kg"
+- producto: "Perro Cachorro Pequeño"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 23022.83
+  - precio: 25400.00
   - disponible: true
 
-- producto: "FAWNA Perro Cachorro Pequeño 3kg"
+- producto: "Perro Cachorro Pequeño"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 46534.16
+  - precio: 49500.00
   - disponible: true
 
-- producto: "FAWNA Perro Cachorro Mediano y Grande"
+- producto: "Perro Cachorro Mediano y Grande"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 23022.83
+  - precio: 25400.00
   - disponible: true
 
-- producto: "FAWNA Perro Cachorro Mediano y Grande"
+- producto: "Perro Cachorro Mediano y Grande"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 46748.6
+  - precio: 49900.00
   - disponible: true
 
-- producto: "FAWNA Perro Cachorro Mediano y Grande"
+- producto: "Perro Cachorro Mediano y Grande"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 81262.65
+  - precio: 86800.00
   - disponible: true
 
-- producto: "FAWNA Perro Adulto Pequeño"
+- producto: "Perro Adulto Pequeño"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 22007.94
+  - precio: 24900.00
   - disponible: true
 
-- producto: "FAWNA Perro Adulto Pequeño"
+- producto: "Perro Adulto Pequeño"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 45001.34
+  - precio: 47600.00
   - disponible: true
 
-- producto: "FAWNA Perro Adulto Mediano y Grande"
+- producto: "Perro Adulto Mediano y Grande"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 19700.44
+  - precio: 22700.00
   - disponible: true
 
-- producto: "FAWNA Perro Adulto Mediano y Grande"
+- producto: "Perro Adulto Mediano y Grande"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 78353.7
+  - precio: 85300.00
   - disponible: true
 
-- producto: "FAWNA Perro Adulto Mediano y Grande"
+- producto: "Perro Adulto Mediano y Grande"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 18
@@ -3910,303 +3911,330 @@
   - precio: 78353.7
   - disponible: true
 
-- producto: "FAWNA Perro Adulto Light"
+- producto: "Perro Adulto Light"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 23277.62
+  - precio: 25800.00
   - disponible: true
 
-- producto: "FAWNA Perro Adulto Light"
+- producto: "Perro Adulto Light"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 76537.17
+  - precio: 78600.00
   - disponible: true
 
-- producto: "FAWNA Perro Adulto Senior"
+- producto: "Perro Adulto Senior"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 23277.62
+  - precio: 25800.00
   - disponible: true
 
-- producto: "FAWNA Perro Adulto Senior"
+- producto: "Perro Adulto Senior"
   - marca: "Fawna"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 76537.17
+  - precio: 78600.00
   - disponible: true
 
 ### OLD PRINCE NOVEL CORDERO Y ARROZ
 
-- producto: "OLD PRINCE Cordero y Arroz Senior"
-  - marca: "Old Prince"
-  - cantidad: 3
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 16102.32
-  - disponible: true
-
-- producto: "OLD PRINCE Cordero y Arroz Senior"
-  - marca: "Old Prince"
-  - cantidad: 15
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 68763.52
-  - disponible: true
-
-- producto: "OLD PRINCE Cordero y Arroz Light"
-  - marca: "Old Prince"
-  - cantidad: 3
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 16102.32
-  - disponible: true
-
-- producto: "OLD PRINCE Cordero y Arroz Light"
-  - marca: "Old Prince"
-  - cantidad: 15
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 68763.52
-  - disponible: true
-
-- producto: "Old Prince Novel Cordero y arroz cachorro"
+- producto: "Cordero y Arroz Senior"
   - marca: "Old Prince"
   - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 16871.45
+  - precio: 18400.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y arroz cachorro"
-  - marca: "Old Prince"
-  - tipo_animal: "Perro"
-  - cantidad: 7.5
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 37825.49
-  - disponible: true
-
-- producto: "Old Prince Novel Cordero y arroz cachorro"
+- producto: "Cordero y Arroz Senior"
   - marca: "Old Prince"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 72036.46
+  - precio: 70000.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y arroz Adulto Small"
+- producto: "Cordero y Arroz Light"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 16871.45
+  - precio: 18400.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y arroz Adulto Small"
+- producto: "Cordero y Arroz Light"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 70000.00
+  - disponible: true
+
+- producto: "Novel Cordero y arroz cachorro"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 19300.00
+  - disponible: true
+
+- producto: "Novel Cordero y arroz cachorro"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 37825.49
+  - precio: 39700.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y arroz Adulto Small"
+- producto: "Novel Cordero y arroz cachorro"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 72036.46
+  - precio: 73600.00
   - disponible: true
 
-- producto: "Old prince Novel cordero y arroz Adulto Medium y large"
+- producto: "Novel Cordero y arroz Adulto Small"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 15334.6
+  - precio: 19300.00
   - disponible: true
 
-- producto: "Old prince Novel cordero y arroz Adulto Medium y large"
+- producto: "Novel Cordero y arroz Adulto Small"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 34380.37
+  - precio: 39700.00
   - disponible: true
 
-- producto: "Old prince Novel cordero y arroz Adulto Medium y large"
+- producto: "Novel Cordero y arroz Adulto Small"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 63321.6
+  - precio: 73600.00
   - disponible: true
 
-- producto: "Old prince Cerdo y Legumbres Naturales Adulto"
+- producto: "Novel cordero y arroz Adulto Medium y large"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 13517.8
+  - precio: 17400.00
   - disponible: true
 
-- producto: "Old prince Cerdo y Legumbres Naturales Adulto"
+- producto: "Novel cordero y arroz Adulto Medium y large"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 7.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 35700.00
+  - disponible: true
+
+- producto: "Novel cordero y arroz Adulto Medium y large"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 57732.48
+  - precio: 62100.00
+  - disponible: true
+
+- producto: "Cerdo y Legumbres Naturales Adulto"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 15400.00
+  - disponible: true
+
+- producto: "Cerdo y Legumbres Naturales Adulto"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 59300.00
   - disponible: true
 
 ### Old Prince Equilibrium
 
-- producto: "Old Prince Equilibrium Puppies Small Breed"
+- producto: "Equilibrium Puppies Small Breed"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 13427.32
+  - precio: 14900.00
   - disponible: true
 
-- producto: "Old Prince Equilibrium Puppies Small Breed"
+- producto: "Equilibrium Puppies Small Breed"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 29080.08
+  - precio: 29500.00
   - disponible: true
 
-- producto: "Old Prince Equilibrium Puppies Medium & Large Breeds"
+- producto: "Equilibrium Puppies Medium & Large Breeds"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 12434.8
+  - precio: 13800.00
   - disponible: true
 
-- producto: "Old Prince Equilibrium Puppies Medium & Large Breeds"
+- producto: "Equilibrium Puppies Medium & Large Breeds"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 28209.43
+  - precio: 28800.00
   - disponible: true
 
-- producto: "Old Prince Equilibrium Puppies Medium & Large Breeds"
-  - marca: "Old Prince"
-  - cantidad: 15
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 51292.15
-  - disponible: true
-
-- producto: "Old Prince Equilibrium Adults Small Breed"
-  - marca: "Old Prince"
-  - cantidad: 3
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 12577.59
-  - disponible: true
-
-- producto: "Old Prince Equilibrium Adults Small Breed"
-  - marca: "Old Prince"
-  - cantidad: 7.5
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 28208.04
-  - disponible: true
-
-- producto: "Old Prince Equilibrium Adults Small Breed"
-  - marca: "Old Prince"
-  - cantidad: 15
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 51292.15
-  - disponible: true
-
-- producto: "Old Prince Equilibrium Adults Medium & Large Breeds"
-  - marca: "Old Prince"
-  - cantidad: 3
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 11645.87
-  - disponible: true
-
-- producto: "Old Prince Equilibrium Adults Medium & Large Breeds"
-  - marca: "Old Prince"
-  - cantidad: 7.5
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 26408.41
-  - disponible: true
-
-- producto: "Old Prince Equilibrium Adults Medium & Large Breeds"
-  - marca: "Old Prince"
-  - cantidad: 15
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 51397.68
-  - disponible: true
-
-- producto: "Old Prince Equilibrium Adults Medium & Large Breeds"
-  - marca: "Old Prince"
-  - cantidad: 20
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 57867.17
-  - disponible: true
-
-- producto: "OP Dogs Special Recipe Weight Control"
+- producto: "Equilibrium Puppies Medium & Large Breeds"
   - marca: "Old Prince"
   - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 59593.2
+  - precio: 50600.00
+  - disponible: true
+
+- producto: "Equilibrium Adults Small Breed"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 14000.00
+  - disponible: true
+
+- producto: "Equilibrium Adults Small Breed"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 7.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 28900.00
+  - disponible: true
+
+- producto: "Equilibrium Adults Small Breed"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 52500.00
+  - disponible: true
+
+- producto: "Equilibrium Adults Medium & Large Breeds"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 12700.00
+  - disponible: true
+
+- producto: "Equilibrium Adults Medium & Large Breeds"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 7.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 27100.00
+  - disponible: true
+
+- producto: "Equilibrium Adults Medium & Large Breeds"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 47000.00
+  - disponible: true
+
+- producto: "Equilibrium Adults Medium & Large Breeds"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 57900.00
+  - disponible: true
+
+- producto: "Dogs Special Recipe Weight Control"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 60800.00
   - disponible: true
 
 ### Old Prince PREMIUM (ex original)
 
-- producto: "Old Prince Premium adulto"
+- producto: "Premium adulto"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 0.00
-  - disponible: false
+  - precio: 9100.00
+  - disponible: true
 
-- producto: "Old Prince Premium adulto"
+- producto: "Premium adulto"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 20
   - unidad: "kg"
   - presentacion: null
-  - precio: 48070.59
+  - precio: 49300.00
   - disponible: true
 
-- producto: "Old Prince Premium Cordero"
+- producto: "Premium Cordero"
   - marca: "Old Prince"
+  - tipo_animal: "Perro"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 54960.83
+  - precio: 57200.00
   - disponible: true
 
 ### BIOPET PERRO
 
-- producto: "CRIADORES Biopet Adulto Med. Y Grande"
+- producto: "Biopet Adulto Med. Y Grande"
   - marca: "Criadores"
   - tipo_animal: "Perro"
   - cantidad: 20
@@ -4215,7 +4243,7 @@
   - precio: 26587.44
   - disponible: true
 
-- producto: "CRIADORES Biopet Adulto Pequeño"
+- producto: "Biopet Adulto Pequeño"
   - marca: "Criadores"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -4224,7 +4252,7 @@
   - precio: 20763.86
   - disponible: true
 
-- producto: "CRIADORES Biopet Adulto Cordero"
+- producto: "Biopet Adulto Cordero"
   - marca: "Criadores"
   - tipo_animal: "Perro"
   - cantidad: 20
@@ -4241,21 +4269,21 @@
   - cantidad: 22
   - unidad: "kg"
   - presentacion: null
-  - precio: 28695.26
+  - precio: 28100.00
   - disponible: true
 
 ### PEDIGREE PERRO
 
-- producto: "PEDIGREE Cachorro Etapa 1"
+- producto: "Cachorro Etapa 1"
   - marca: "Pedigree"
   - tipo_animal: "Perro"
   - cantidad: 21
   - unidad: "kg"
   - presentacion: null
-  - precio: 52786.8
+  - precio: 55000.00
   - disponible: true
 
-- producto: "PEDIGREE Adulto razas pequeñas"
+- producto: "Adulto razas pequeñas"
   - marca: "Pedigree"
   - tipo_animal: "Perro"
   - cantidad: 8
@@ -4264,7 +4292,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "PEDIGREE Adulto razas pequeñas"
+- producto: "Adulto razas pequeñas"
   - marca: "Pedigree"
   - tipo_animal: "Perro"
   - cantidad: 15
@@ -4273,187 +4301,34 @@
   - precio: 39487.8
   - disponible: true
 
-- producto: "PEDIGREE Adulto razas pequeñas"
+- producto: "Adulto razas pequeñas"
   - marca: "Pedigree"
   - tipo_animal: "Perro"
   - cantidad: 21
   - unidad: "kg"
   - presentacion: null
-  - precio: 49922.4
+  - precio: 52000.00
   - disponible: true
 
-- producto: "PEDIGREE Adulto razas medianas Carne"
+- producto: "Adulto razas medianas Carne"
   - marca: "Pedigree"
   - tipo_animal: "Perro"
   - cantidad: 21
   - unidad: "kg"
   - presentacion: null
-  - precio: 49922.4
+  - precio: 52000.00
   - disponible: true
 
-- producto: "PEDIGREE Adulto +7 años"
+- producto: "Adulto +7 años"
   - marca: "Pedigree"
   - tipo_animal: "Perro"
   - cantidad: 8
   - unidad: "kg"
   - presentacion: null
-  - precio: 0.00
-  - disponible: false
-
-- producto: "PEDIGREE POUCH Cachorro"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "12 x 100gr"
-  - precio: 10588.05
+  - precio: 20900.00
   - disponible: true
 
-- producto: "PEDIGREE POUCH Adulto Pollo"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "12 x 100gr"
-  - precio: 10588.05
-  - disponible: true
-
-- producto: "PEDIGREE POUCH Adulto Carne"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "12 x 100gr"
-  - precio: 10588.05
-  - disponible: true
-
-- producto: "PEDIGREE POUCH Adulto Carne +7"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "12 x 100gr"
-  - precio: 10588.05
-  - disponible: true
-
-- producto: "PEDIGREE POUCH Ad. Raza peq. Pollo"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "12 x 100gr"
-  - precio: 10588.05
-  - disponible: true
-
-- producto: "PEDIGREE POUCH Ad. Raza peq. Carne"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "12 x 100gr"
-  - precio: 10588.05
-  - disponible: true
-
-- producto: "PEDIGREE LATA Cachorro Carne"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "x340gr"
-  - precio: 0.00
-  - disponible: false
-
-- producto: "PEDIGREE LATA Pollo"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "x340gr"
-  - precio: 0.00
-  - disponible: false
-
-- producto: "PEDIGREE LATA Carne"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "x340gr"
-  - precio: 0.00
-  - disponible: false
-
-- producto: "PEDIGREE DENTASTIX Raza peq."
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "20x15,7gr"
-  - precio: 7888.19
-  - disponible: true
-
-- producto: "PEDIGREE DENTASTIX Raza peq."
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "10x47,1gr"
-  - precio: 11632.21
-  - disponible: true
-
-- producto: "PEDIGREE DENTASTIX Raza peq."
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "8x110gr"
-  - precio: 17867.8
-  - disponible: true
-
-- producto: "PEDIGREE DENTASTIX Raza med."
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "18x25,7gr"
-  - precio: 8549.6
-  - disponible: true
-
-- producto: "PEDIGREE DENTASTIX Raza med."
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "10x77,1gr"
-  - precio: 13577.3
-  - disponible: true
-
-- producto: "PEDIGREE DENTASTIX Raza med."
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "8x180gr"
-  - precio: 21018.15
-  - disponible: true
-
-- producto: "PEDIGREE DENTASTIX Raza gde."
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "10x115gr"
-  - precio: 20161.07
-  - disponible: true
-
-- producto: "PEDIGREE DENTASTIX Raza gde."
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "7x270gr"
-  - precio: 27052.89
-  - disponible: true
-
-- producto: "PEDIGREE Rodeo Carne"
+- producto: "Rodeo Carne"
   - marca: "Pedigree"
   - tipo_animal: "Perro"
   - cantidad: null
@@ -4462,7 +4337,7 @@
   - precio: 13566.58
   - disponible: true
 
-- producto: "PEDIGREE Rodeo Pollo"
+- producto: "Rodeo Pollo"
   - marca: "Pedigree"
   - tipo_animal: "Perro"
   - cantidad: null
@@ -4470,17 +4345,6 @@
   - presentacion: "10x70gr"
   - precio: 13566.58
   - disponible: true
-
-- producto: "PEDIGREE Biscrok"
-  - marca: "Pedigree"
-  - tipo_animal: "Perro"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "16x100gr"
-  - precio: 0.00
-  - disponible: false
-
-### ROYAL CANIN GATO
 
 - producto: "Baby Cat Milk"
   - marca: "Royal Canin"
@@ -4563,7 +4427,7 @@
   - precio: 31004.26
   - disponible: true
 
-- producto: "ROYAL CANIN Mother & Baby Cat"
+- producto: "Mother & Baby Cat"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -4572,16 +4436,16 @@
   - precio: 8956.88
   - disponible: true
 
-- producto: "ROYAL CANIN Mother & Baby Cat"
+- producto: "Mother & Baby Cat"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 27986.91
+  - precio: 28000.00
   - disponible: true
 
-- producto: "ROYAL CANIN Kitten"
+- producto: "Kitten"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -4590,25 +4454,25 @@
   - precio: 8900.6
   - disponible: true
 
-- producto: "ROYAL CANIN Kitten"
+- producto: "Kitten"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 26657.81
+  - precio: 26600.00
   - disponible: true
 
-- producto: "ROYAL CANIN Kitten"
+- producto: "Kitten"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 96249.2
+  - precio: 97900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Indoor"
+- producto: "Indoor"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -4617,34 +4481,34 @@
   - precio: 7954.16
   - disponible: true
 
-- producto: "ROYAL CANIN Indoor"
+- producto: "Indoor"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 24975.71
+  - precio: 23300.00
   - disponible: true
 
-- producto: "ROYAL CANIN Indoor"
+- producto: "Indoor"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 96299.49
+  - precio: 97900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Indoor longhair"
+- producto: "Indoor longhair"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 24975.71
+  - precio: 24900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Indoor 7+"
+- producto: "Indoor 7+"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -4653,7 +4517,7 @@
   - precio: 8355.25
   - disponible: true
 
-- producto: "ROYAL CANIN Indoor 7+"
+- producto: "Indoor 7+"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -4662,7 +4526,7 @@
   - precio: 26234.21
   - disponible: true
 
-- producto: "ROYAL CANIN Indoor 7+"
+- producto: "Indoor 7+"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -4671,7 +4535,7 @@
   - precio: 101155.65
   - disponible: true
 
-- producto: "ROYAL CANIN Fit"
+- producto: "Fit"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -4680,16 +4544,16 @@
   - precio: 7433.37
   - disponible: true
 
-- producto: "ROYAL CANIN Fit"
+- producto: "Fit"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 23348.86
+  - precio: 23200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Fit"
+- producto: "Fit"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -4698,25 +4562,25 @@
   - precio: 40350.96
   - disponible: true
 
-- producto: "ROYAL CANIN Fit"
+- producto: "Fit"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 96299.49
+  - precio: 97900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Fit"
+- producto: "Fit"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 162647.27
+  - precio: 165500.00
   - disponible: true
 
-- producto: "ROYAL CANIN Active 7+"
+- producto: "Active 7+"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -4725,16 +4589,16 @@
   - precio: 26230.12
   - disponible: true
 
-- producto: "ROYAL CANIN Exigent"
+- producto: "Exigent"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 24980.82
+  - precio: 24900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Sensible"
+- producto: "Sensible"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -4743,16 +4607,16 @@
   - precio: 7947.0
   - disponible: true
 
-- producto: "ROYAL CANIN Sensible"
+- producto: "Sensible"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 24982.87
+  - precio: 24900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Sensible"
+- producto: "Sensible"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -4761,7 +4625,7 @@
   - precio: 96301.5
   - disponible: true
 
-- producto: "ROYAL CANIN Ageing +11"
+- producto: "Ageing +11"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -4779,7 +4643,7 @@
   - precio: 31004.26
   - disponible: true
 
-- producto: "ROYAL CANIN Persian"
+- producto: "Persian"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -4788,7 +4652,7 @@
   - precio: 27951.1
   - disponible: true
 
-- producto: "ROYAL CANIN Persian"
+- producto: "Persian"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -4797,7 +4661,7 @@
   - precio: 102280.69
   - disponible: true
 
-- producto: "ROYAL CANIN Siamese"
+- producto: "Siamese"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -4806,7 +4670,7 @@
   - precio: 27951.1
   - disponible: true
 
-- producto: "ROYAL CANIN Siamese"
+- producto: "Siamese"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -4869,7 +4733,7 @@
   - precio: 31004.26
   - disponible: true
 
-- producto: "ROYAL CANIN Appetite Control"
+- producto: "Appetite Control"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -4878,7 +4742,7 @@
   - precio: 27270.69
   - disponible: true
 
-- producto: "ROYAL CANIN Appetite Control"
+- producto: "Appetite Control"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -4887,25 +4751,43 @@
   - precio: 43633.31
   - disponible: true
 
-- producto: "ROYAL CANIN Weight Care"
+- producto: "Weight Care"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 26485.91
+  - precio: 26300.00
   - disponible: true
 
-- producto: "ROYAL CANIN Weight Care"
+- producto: "Weight Care"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 102668.42
+  - precio: 104200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Hair & Skin Care"
+- producto: "Hair & Skin Care"
+  - marca: "Royal Canin"
+  - tipo_animal: "Gato"
+  - cantidad: 2
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 36300.00
+  - disponible: true
+
+- producto: "Hairball Care"
+  - marca: "Royal Canin"
+  - tipo_animal: "Gato"
+  - cantidad: 1.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 27200.00
+  - disponible: true
+
+- producto: "Digestive Care"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -4914,40 +4796,22 @@
   - precio: 36349.32
   - disponible: true
 
-- producto: "ROYAL CANIN Hairball Care"
+- producto: "Urinary Care"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 27270.69
+  - precio: 27100.00
   - disponible: true
 
-- producto: "ROYAL CANIN Digestive Care"
-  - marca: "Royal Canin"
-  - tipo_animal: "Gato"
-  - cantidad: 2
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 36349.32
-  - disponible: true
-
-- producto: "ROYAL CANIN Urinary Care"
-  - marca: "Royal Canin"
-  - tipo_animal: "Gato"
-  - cantidad: 1.5
-  - unidad: "kg"
-  - presentacion: null
-  - precio: 27263.53
-  - disponible: true
-
-- producto: "ROYAL CANIN Urinary Care"
+- producto: "Urinary Care"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 110937.38
+  - precio: 112200.00
   - disponible: true
 
 - producto: "Urinary S/O Cat Pouch"
@@ -4959,7 +4823,7 @@
   - precio: 36372.86
   - disponible: true
 
-- producto: "ROYAL CANIN Urinary S/O High Dilution"
+- producto: "Urinary S/O High Dilution"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -4968,22 +4832,22 @@
   - precio: 9075.56
   - disponible: true
 
-- producto: "ROYAL CANIN Urinary S/O High Dilution"
+- producto: "Urinary S/O High Dilution"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 27949.06
+  - precio: 25900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Urinary S/O High Dilution"
+- producto: "Urinary S/O High Dilution"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 101461.42
+  - precio: 102700.00
   - disponible: true
 
 - producto: "Satiety Feline WM Pouch"
@@ -4995,25 +4859,25 @@
   - precio: 36372.86
   - disponible: true
 
-- producto: "ROYAL CANIN Satiety Feline"
+- producto: "Satiety Feline"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 24745.49
+  - precio: 24400.00
   - disponible: true
 
-- producto: "ROYAL CANIN Diabetic Feline"
+- producto: "Diabetic Feline"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 32089.85
+  - precio: 32000.00
   - disponible: true
 
-- producto: "ROYAL CANIN Hypoallergenic Cat"
+- producto: "Hypoallergenic Cat"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -5022,22 +4886,13 @@
   - precio: 41592.07
   - disponible: true
 
-- producto: "ROYAL CANIN Anallergenic Cat"
+- producto: "Anallergenic Cat"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 46416.35
-  - disponible: true
-
-- producto: "Recovery Lata"
-  - marca: "Royal Canin"
-  - tipo_animal: "Gato"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "12x195g"
-  - precio: 73090.52
+  - precio: 35000.00
   - disponible: true
 
 - producto: "Gastrointestinal Pouch"
@@ -5067,16 +4922,16 @@
   - precio: 36893.65
   - disponible: true
 
-- producto: "ROYAL CANIN Gastrointestinal Cat"
+- producto: "Gastrointestinal Cat"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 34753.17
+  - precio: 34600.00
   - disponible: true
 
-- producto: "ROYAL CANIN Gastro. Hydrolyzed Cat"
+- producto: "Gastro. Hydrolyzed Cat"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -5085,7 +4940,7 @@
   - precio: 27508.07
   - disponible: true
 
-- producto: "ROYAL CANIN Gastrointestinal Moderate Calorie Cat"
+- producto: "Gastrointestinal Moderate Calorie Cat"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -5094,7 +4949,7 @@
   - precio: 35529.76
   - disponible: true
 
-- producto: "ROYAL CANIN Fibre Response Cat"
+- producto: "Fibre Response Cat"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -5103,13 +4958,13 @@
   - precio: 36676.74
   - disponible: true
 
-- producto: "ROYAL CANIN Hepatic"
+- producto: "Hepatic"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 27135.63
+  - precio: 27100.00
   - disponible: true
 
 - producto: "Early Renal Pouch"
@@ -5130,16 +4985,16 @@
   - precio: 36372.86
   - disponible: true
 
-- producto: "ROYAL CANIN Renal"
+- producto: "Renal"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 31791.08
+  - precio: 31800.00
   - disponible: true
 
-- producto: "ROYAL CANIN Early Renal"
+- producto: "Early Renal"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -5148,7 +5003,7 @@
   - precio: 25767.65
   - disponible: true
 
-- producto: "ROYAL CANIN Early Renal"
+- producto: "Early Renal"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -5175,16 +5030,16 @@
   - precio: 36372.86
   - disponible: true
 
-- producto: "ROYAL CANIN Calm Cat"
+- producto: "Calm Cat"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
   - precio: 38989.12
-  - disponible: true
+  - disponible: false
 
-- producto: "ROYAL CANIN Gatos Castrados-Weight Control"
+- producto: "Gatos Castrados-Weight Control"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -5193,43 +5048,43 @@
   - precio: 9141.05
   - disponible: true
 
-- producto: "ROYAL CANIN Gatos Castrados-Weight Control"
+- producto: "Gatos Castrados-Weight Control"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 24772.1
+  - precio: 25100.00
   - disponible: true
 
-- producto: "ROYAL CANIN Gatos Castrados-Weight Control"
+- producto: "Gatos Castrados-Weight Control"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 48522.04
+  - precio: 48200.00
   - disponible: true
 
-- producto: "ROYAL CANIN Gatos Castrados-Weight Control"
+- producto: "Gatos Castrados-Weight Control"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 96237.13
+  - precio: 97900.00
   - disponible: true
 
-- producto: "ROYAL CANIN Gatos Castrados-Weight Control"
+- producto: "Gatos Castrados-Weight Control"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 12
   - unidad: "kg"
   - presentacion: null
-  - precio: 139511.09
+  - precio: 134500.00
   - disponible: true
 
-- producto: "ROYAL CANIN Mature Consult"
+- producto: "Mature Consult"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -5238,7 +5093,7 @@
   - precio: 26436.8
   - disponible: true
 
-- producto: "ROYAL CANIN Mature Consult"
+- producto: "Mature Consult"
   - marca: "Royal Canin"
   - tipo_animal: "Gato"
   - cantidad: 3.5
@@ -5249,7 +5104,7 @@
 
 ### PERFORMANCE GATO
 
-- producto: "CLUB PERFORMANCE Cat Kitten"
+- producto: "Cat Kitten"
   - marca: "Club Performance"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -5258,16 +5113,16 @@
   - precio: 17004.15
   - disponible: true
 
-- producto: "CLUB PERFORMANCE Cat Kitten"
+- producto: "Cat Kitten"
   - marca: "Club Performance"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 61208.98
+  - precio: 62200.00
   - disponible: true
 
-- producto: "CLUB PERFORMANCE Cat"
+- producto: "Cat"
   - marca: "Club Performance"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -5276,81 +5131,81 @@
   - precio: 14458.49
   - disponible: true
 
-- producto: "CLUB PERFORMANCE Cat"
+- producto: "Cat"
   - marca: "Club Performance"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 57441.13
+  - precio: 58200.00
   - disponible: true
 
 ### PROPLAN GATO
 
-- producto: "PROPLAN Kitten Protection"
+- producto: "Kitten Protection"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 15599.38
+  - precio: 19600.00
   - disponible: true
 
-- producto: "PROPLAN Kitten Protection"
+- producto: "Kitten Protection"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 42210.32
+  - precio: 53100.00
   - disponible: true
 
-- producto: "PROPLAN Kitten Protection"
+- producto: "Kitten Protection"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 92178.73
+  - precio: 91600.00
   - disponible: true
 
-- producto: "PROPLAN Adult Cat"
+- producto: "Adult Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 14293.64
+  - precio: 18400.00
   - disponible: true
 
-- producto: "PROPLAN Adult Cat"
+- producto: "Adult Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 38327.26
+  - precio: 47400.00
   - disponible: true
 
-- producto: "PROPLAN Adult Cat"
+- producto: "Adult Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 83506.62
+  - precio: 82100.00
   - disponible: true
 
-- producto: "PROPLAN Adult Cat"
+- producto: "Adult Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 143685.52
+  - precio: 144600.00
   - disponible: true
 
-- producto: "PROPLAN Live Clear"
+- producto: "Live Clear"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 1
@@ -5359,7 +5214,7 @@
   - precio: 19300.71
   - disponible: true
 
-- producto: "PROPLAN Live Clear"
+- producto: "Live Clear"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -5368,7 +5223,7 @@
   - precio: 51750.13
   - disponible: true
 
-- producto: "PROPLAN Adult Cat (mas 7)"
+- producto: "Adult Cat (mas 7)"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 1
@@ -5377,25 +5232,25 @@
   - precio: 16100.69
   - disponible: true
 
-- producto: "PROPLAN Adult Cat (mas 7)"
+- producto: "Adult Cat (mas 7)"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 42252.99
+  - precio: 52000.00
   - disponible: true
 
-- producto: "PROPLAN Adult Cat (mas 7)"
+- producto: "Adult Cat (mas 7)"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 90370.32
+  - precio: 90500.00
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin & Stomach Cat"
+- producto: "Sensitive Skin & Stomach Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 1
@@ -5404,7 +5259,7 @@
   - precio: 17254.55
   - disponible: true
 
-- producto: "PROPLAN Sensitive Skin & Stomach Cat"
+- producto: "Sensitive Skin & Stomach Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -5413,70 +5268,70 @@
   - precio: 46348.98
   - disponible: true
 
-- producto: "PROPLAN Urinary Cat"
+- producto: "Urinary Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 16308.35
+  - precio: 20700.00
   - disponible: true
 
-- producto: "PROPLAN Urinary Cat"
+- producto: "Urinary Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 44036.0
+  - precio: 55400.00
   - disponible: true
 
-- producto: "PROPLAN Urinary Cat"
+- producto: "Urinary Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 91413.66
+  - precio: 90100.00
   - disponible: true
 
-- producto: "PROPLAN Urinary Cat"
+- producto: "Urinary Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 153891.95
+  - precio: 154900.00
   - disponible: true
 
-- producto: "PROPLAN Sterilized Cat"
+- producto: "Sterilized Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 16424.99
+  - precio: 20700.00
   - disponible: true
 
-- producto: "PROPLAN Sterilized Cat"
+- producto: "Sterilized Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 44085.34
+  - precio: 55400.00
   - disponible: true
 
-- producto: "PROPLAN Sterilized Cat"
+- producto: "Sterilized Cat"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 96135.38
+  - precio: 96600.00
   - disponible: true
 
-- producto: "PRO PLAN kitten (15x85g) - Pouch"
+- producto: "kitten (15x85g) - Pouch"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: null
@@ -5485,7 +5340,7 @@
   - precio: 33530.03
   - disponible: true
 
-- producto: "PRO PLAN gato adulto pollo (15x85g) - Pouch"
+- producto: "gato adulto pollo (15x85g) - Pouch"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: null
@@ -5494,7 +5349,7 @@
   - precio: 33530.03
   - disponible: true
 
-- producto: "PRO PLAN gato adulto salmon (15x85g) - Pouch"
+- producto: "gato adulto salmon (15x85g) - Pouch"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: null
@@ -5503,7 +5358,7 @@
   - precio: 33530.03
   - disponible: true
 
-- producto: "PRO PLAN gato adulto sterilized (15x85g) - Pouch"
+- producto: "gato adulto sterilized (15x85g) - Pouch"
   - marca: "Pro Plan"
   - tipo_animal: "Gato"
   - cantidad: null
@@ -5514,7 +5369,7 @@
 
 ### PRO PLAN MEDICADOS PARA GATOS
 
-- producto: "PPVD OM (OBESITY MANAGEMENT) OBESIDAD"
+- producto: "OM (OBESITY MANAGEMENT) OBESIDAD"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -5523,7 +5378,7 @@
   - precio: 22083.86
   - disponible: true
 
-- producto: "PPVD UR (URINARY) Vías URINARIAS"
+- producto: "UR (URINARY) Vías URINARIAS"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -5532,7 +5387,7 @@
   - precio: 21674.86
   - disponible: true
 
-- producto: "PPVD UR (URINARY) Vías URINARIAS"
+- producto: "UR (URINARY) Vías URINARIAS"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -5541,7 +5396,7 @@
   - precio: 80802.92
   - disponible: true
 
-- producto: "PPVD EN (GASTROENTERIC) GASTROENTÉRICO"
+- producto: "EN (GASTROENTERIC) GASTROENTÉRICO"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -5550,7 +5405,7 @@
   - precio: 19474.66
   - disponible: true
 
-- producto: "PPVD NF (KIDNEY FUNCTION) NEFROLÓGICO ADVANCED STAGE"
+- producto: "NF (KIDNEY FUNCTION) NEFROLÓGICO ADVANCED STAGE"
   - marca: "Pro Plan Veterinary Diets"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -5561,79 +5416,79 @@
 
 ### EXCELLENT GATO
 
-- producto: "EXCELLENT Kitten"
+- producto: "Kitten"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 9788.03
+  - precio: 14600.00
   - disponible: true
 
-- producto: "EXCELLENT Kitten"
+- producto: "Kitten"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 57623.54
+  - precio: 57600.00
   - disponible: true
 
-- producto: "EXCELLENT Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 8826.42
+  - precio: 11000.00
   - disponible: true
 
-- producto: "EXCELLENT Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 24143.7
+  - precio: 26000.00
   - disponible: true
 
-- producto: "EXCELLENT Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 52032.38
+  - precio: 52200.00
   - disponible: true
 
-- producto: "EXCELLENT Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 98891.51
+  - precio: 100800.00
   - disponible: true
 
-- producto: "EXCELLENT Gato Urinary"
+- producto: "Gato Urinary"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 10282.78
+  - precio: 13200.00
   - disponible: true
 
-- producto: "EXCELLENT Gato Urinary"
+- producto: "Gato Urinary"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 59974.44
+  - precio: 60700.00
   - disponible: true
 
-- producto: "EXCELLENT Gato Urinary"
+- producto: "Gato Urinary"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 15
@@ -5642,25 +5497,25 @@
   - precio: 115691.95
   - disponible: true
 
-- producto: "EXCELLENT Gato Sterilized"
+- producto: "Gato Sterilized"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 10282.78
+  - precio: 13300.00
   - disponible: true
 
-- producto: "EXCELLENT Gato Sterilized"
+- producto: "Gato Sterilized"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 59974.44
+  - precio: 66700.00
   - disponible: true
 
-- producto: "EXCELLENT Gato Skin Care"
+- producto: "Gato Skin Care"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 1
@@ -5669,7 +5524,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "EXCELLENT Gato Skin Care"
+- producto: "Gato Skin Care"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -5678,18 +5533,18 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "EXCELLENT Mantenimiento Gato Adulto"
+- producto: "Mantenimiento Gato Adulto"
   - marca: "Excellent"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 73903.51
+  - precio: 77400.00
   - disponible: true
 
 ### CAT CHOW
 
-- producto: "CAT CHOW Gatitos"
+- producto: "Gatitos"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 0.5
@@ -5698,16 +5553,16 @@
   - precio: 3817.74
   - disponible: true
 
-- producto: "CAT CHOW Gatitos"
+- producto: "Gatitos"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 6866.81
+  - precio: 9000.00
   - disponible: true
 
-- producto: "CAT CHOW Gatitos"
+- producto: "Gatitos"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -5716,16 +5571,16 @@
   - precio: 17546.99
   - disponible: true
 
-- producto: "CAT CHOW Gatitos"
+- producto: "Gatitos"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 77099.83
+  - precio: 77900.00
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Pescado"
+- producto: "Adulto sabor Pescado"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 0.5
@@ -5734,43 +5589,43 @@
   - precio: 3478.21
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Pescado"
+- producto: "Adulto sabor Pescado"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 6291.78
+  - precio: 8400.00
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Pescado"
+- producto: "Adulto sabor Pescado"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 15961.89
+  - precio: 22500.00
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Pescado"
+- producto: "Adulto sabor Pescado"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 8
   - unidad: "kg"
   - presentacion: null
-  - precio: 40968.32
+  - precio: 40600.00
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Pescado"
+- producto: "Adulto sabor Pescado"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 70473.38
+  - precio: 71100.00
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Carne"
+- producto: "Adulto sabor Carne"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 0.5
@@ -5779,52 +5634,52 @@
   - precio: 3478.21
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Carne"
+- producto: "Adulto sabor Carne"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 6291.78
+  - precio: 8400.00
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Carne"
+- producto: "Adulto sabor Carne"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 15961.89
+  - precio: 22500.00
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Carne"
+- producto: "Adulto sabor Carne"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 8
   - unidad: "kg"
   - presentacion: null
-  - precio: 40968.32
+  - precio: 40600.00
   - disponible: true
 
-- producto: "CAT CHOW Adulto sabor Carne"
+- producto: "Adulto sabor Carne"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 70473.38
+  - precio: 71100.00
   - disponible: true
 
-- producto: "CAT CHOW ESTERILIZADOS"
+- producto: "ESTERILIZADOS"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 7167.87
+  - precio: 9700.00
   - disponible: true
 
-- producto: "CAT CHOW ESTERILIZADOS"
+- producto: "ESTERILIZADOS"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -5833,16 +5688,16 @@
   - precio: 18240.07
   - disponible: true
 
-- producto: "CAT CHOW ESTERILIZADOS"
+- producto: "ESTERILIZADOS"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 79668.84
+  - precio: 80100.00
   - disponible: true
 
-- producto: "CAT CHOW Gatitos Pollo (15 x 85g) - Pouch"
+- producto: "Gatitos Pollo (15 x 85g) - Pouch"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: null
@@ -5851,7 +5706,7 @@
   - precio: 16377.21
   - disponible: true
 
-- producto: "CAT CHOW Adulto Esterilizados Pescado"
+- producto: "Adulto Esterilizados Pescado"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: null
@@ -5860,7 +5715,7 @@
   - precio: 16377.21
   - disponible: true
 
-- producto: "CAT CHOW Adulto Pescado (15 x 85g) - Pouch"
+- producto: "Adulto Pescado (15 x 85g) - Pouch"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: null
@@ -5869,7 +5724,7 @@
   - precio: 16377.21
   - disponible: true
 
-- producto: "CAT CHOW Adulto Pollo (15 x 85g) - Pouch"
+- producto: "Adulto Pollo (15 x 85g) - Pouch"
   - marca: "Cat Chow"
   - tipo_animal: "Gato"
   - cantidad: null
@@ -5880,32 +5735,36 @@
 
 ### FELIX
 
-- producto: "FELIX Pouch Salmon"
+- producto: "Pouch Salmon"
   - marca: "Felix"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "15x85g"
   - precio: 14309.24
   - disponible: true
 
-- producto: "FELIX Pouch Pollo"
+- producto: "Pouch Pollo"
   - marca: "Felix"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "15x85g"
   - precio: 14309.24
   - disponible: true
 
-- producto: "FELIX Pouch Pescado Blanco"
+- producto: "Pouch Pescado Blanco"
   - marca: "Felix"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "15x85g"
   - precio: 14309.24
   - disponible: true
 
-- producto: "FELIX Pouch Atun"
+- producto: "Pouch Atun"
   - marca: "Felix"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "15x85g"
@@ -5914,90 +5773,101 @@
 
 ### GATI
 
-- producto: "GATI Carne y Pollo"
+- producto: "Carne y Pollo"
   - marca: "Gati"
+  - tipo_animal: "Gato"
   - cantidad: 0.5
   - unidad: "kg"
   - presentacion: null
   - precio: 1922.89
   - disponible: true
 
-- producto: "GATI Carne y Pollo"
+- producto: "Carne y Pollo"
   - marca: "Gati"
+  - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
   - precio: 3680.94
   - disponible: true
 
-- producto: "GATI Carne y Pollo"
+- producto: "Carne y Pollo"
   - marca: "Gati"
+  - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
   - precio: 10376.09
   - disponible: true
 
-- producto: "GATI Carne y Pollo"
+- producto: "Carne y Pollo"
   - marca: "Gati"
+  - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 40726.14
+  - precio: 40600.00
   - disponible: true
 
-- producto: "GATI Pescado y Salmon"
+- producto: "Pescado y Salmon"
   - marca: "Gati"
+  - tipo_animal: "Gato"
   - cantidad: 0.5
   - unidad: "kg"
   - presentacion: null
   - precio: 1922.89
   - disponible: true
 
-- producto: "GATI Pescado y Salmon"
+- producto: "Pescado y Salmon"
   - marca: "Gati"
+  - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
   - precio: 3680.94
   - disponible: true
 
-- producto: "GATI Pescado y Salmon"
+- producto: "Pescado y Salmon"
   - marca: "Gati"
+  - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
   - precio: 10376.09
   - disponible: true
 
-- producto: "GATI Pescado y Salmon"
+- producto: "Pescado y Salmon"
   - marca: "Gati"
+  - tipo_animal: "Gato"
   - cantidad: 8
   - unidad: "kg"
   - presentacion: null
   - precio: 23586.36
   - disponible: true
 
-- producto: "GATI Pescado y Salmon"
+- producto: "Pescado y Salmon"
   - marca: "Gati"
+  - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 40726.14
+  - precio: 40600.00
   - disponible: true
 
 ### FANCY FEAST
 
-- producto: "FANCY FEAST Goulash Pavo"
+- producto: "Goulash Pavo"
   - marca: "Fancy Feast"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "15x85g"
   - precio: 23016.35
   - disponible: true
 
-- producto: "FANCY FEAST Goulash Atun"
+- producto: "Goulash Atun"
   - marca: "Fancy Feast"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "15x85g"
@@ -6006,18 +5876,18 @@
 
 ### BONELO Gatos
 
-- producto: "BONELO Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Bonelo"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 45588.49
+  - precio: 52000.00
   - disponible: true
 
 ### BALANCED GATO
 
-- producto: "BALANCED Gato Kitten"
+- producto: "Gato Kitten"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6026,7 +5896,7 @@
   - precio: 19799.4
   - disponible: true
 
-- producto: "BALANCED Gato Kitten"
+- producto: "Gato Kitten"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6035,7 +5905,7 @@
   - precio: 54301.94
   - disponible: true
 
-- producto: "BALANCED Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -6044,7 +5914,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "BALANCED Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6053,25 +5923,25 @@
   - precio: 17159.08
   - disponible: true
 
-- producto: "BALANCED Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 48707.29
+  - precio: 50600.00
   - disponible: true
 
-- producto: "BALANCED Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 90620.26
+  - precio: 97000.00
   - disponible: true
 
-- producto: "BALANCED Exclusive Pollo y Arroz"
+- producto: "Exclusive Pollo y Arroz"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6080,7 +5950,7 @@
   - precio: 23145.85
   - disponible: true
 
-- producto: "BALANCED Exclusive Pollo y Arroz"
+- producto: "Exclusive Pollo y Arroz"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6089,7 +5959,7 @@
   - precio: 46926.64
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Cordero"
+- producto: "Gato Recipe Cordero"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6098,7 +5968,7 @@
   - precio: 23133.13
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Cordero"
+- producto: "Gato Recipe Cordero"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6107,7 +5977,7 @@
   - precio: 46066.86
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Cordero"
+- producto: "Gato Recipe Cordero"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 15
@@ -6116,7 +5986,7 @@
   - precio: 88820.21
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Salmon"
+- producto: "Gato Recipe Salmon"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6125,7 +5995,7 @@
   - precio: 23133.13
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Salmon"
+- producto: "Gato Recipe Salmon"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6134,7 +6004,7 @@
   - precio: 46066.86
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Salmon"
+- producto: "Gato Recipe Salmon"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 15
@@ -6143,7 +6013,7 @@
   - precio: 88820.21
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Pollo"
+- producto: "Gato Recipe Pollo"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6152,7 +6022,7 @@
   - precio: 23133.13
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Pollo"
+- producto: "Gato Recipe Pollo"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6161,7 +6031,7 @@
   - precio: 46066.86
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Pollo"
+- producto: "Gato Recipe Pollo"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 15
@@ -6170,7 +6040,7 @@
   - precio: 88820.21
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Trucha"
+- producto: "Gato Recipe Trucha"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6179,7 +6049,7 @@
   - precio: 23133.13
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Trucha"
+- producto: "Gato Recipe Trucha"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6188,7 +6058,7 @@
   - precio: 46066.86
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Trucha"
+- producto: "Gato Recipe Trucha"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 15
@@ -6197,7 +6067,7 @@
   - precio: 88820.21
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Merluza"
+- producto: "Gato Recipe Merluza"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6206,7 +6076,7 @@
   - precio: 23133.13
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Merluza"
+- producto: "Gato Recipe Merluza"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6215,7 +6085,7 @@
   - precio: 46066.86
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Merluza"
+- producto: "Gato Recipe Merluza"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 15
@@ -6224,7 +6094,7 @@
   - precio: 88820.21
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Carne"
+- producto: "Gato Recipe Carne"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6233,7 +6103,7 @@
   - precio: 23133.13
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Carne"
+- producto: "Gato Recipe Carne"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6242,7 +6112,7 @@
   - precio: 46066.86
   - disponible: true
 
-- producto: "BALANCED Gato Recipe Carne"
+- producto: "Gato Recipe Carne"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 15
@@ -6251,7 +6121,7 @@
   - precio: 88820.21
   - disponible: true
 
-- producto: "BALANCED Gato Senior"
+- producto: "Gato Senior"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -6260,7 +6130,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "BALANCED Gato Senior"
+- producto: "Gato Senior"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6269,7 +6139,7 @@
   - precio: 19137.18
   - disponible: true
 
-- producto: "BALANCED Gato Senior"
+- producto: "Gato Senior"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6278,7 +6148,7 @@
   - precio: 50425.28
   - disponible: true
 
-- producto: "BALANCED Gato Ctrl. Peso/Cstrdo"
+- producto: "Gato Ctrl. Peso/Cstrdo"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -6287,7 +6157,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "BALANCED Gato Ctrl. Peso/Cstrdo"
+- producto: "Gato Ctrl. Peso/Cstrdo"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6296,16 +6166,16 @@
   - precio: 19799.4
   - disponible: true
 
-- producto: "BALANCED Gato Ctrl. Peso/Cstrdo"
+- producto: "Gato Ctrl. Peso/Cstrdo"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 54359.38
+  - precio: 62900.00
   - disponible: true
 
-- producto: "BALANCED Gato Control PH"
+- producto: "Gato Control PH"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 0.4
@@ -6314,7 +6184,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "BALANCED Gato Control PH"
+- producto: "Gato Control PH"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6323,7 +6193,7 @@
   - precio: 19799.4
   - disponible: true
 
-- producto: "BALANCED Gato Control PH"
+- producto: "Gato Control PH"
   - marca: "Balanced"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6334,7 +6204,7 @@
 
 ### COMPLETE GATO
 
-- producto: "COMPLETE Kitten"
+- producto: "Kitten"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -6343,7 +6213,7 @@
   - precio: 8640.68
   - disponible: true
 
-- producto: "COMPLETE Kitten"
+- producto: "Kitten"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6352,7 +6222,7 @@
   - precio: 34094.83
   - disponible: true
 
-- producto: "COMPLETE Kitten"
+- producto: "Kitten"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 15
@@ -6361,7 +6231,7 @@
   - precio: 58909.01
   - disponible: true
 
-- producto: "COMPLETE Adulto"
+- producto: "Adulto"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -6370,7 +6240,7 @@
   - precio: 8037.26
   - disponible: true
 
-- producto: "COMPLETE Adulto"
+- producto: "Adulto"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6379,16 +6249,16 @@
   - precio: 31178.94
   - disponible: true
 
-- producto: "COMPLETE Adulto"
+- producto: "Adulto"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 56612.67
+  - precio: 60300.00
   - disponible: true
 
-- producto: "COMPLETE Gato Adulto Safety Pack"
+- producto: "Gato Adulto Safety Pack"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 24
@@ -6397,7 +6267,7 @@
   - precio: 91148.34
   - disponible: true
 
-- producto: "COMPLETE Control de Peso/Castrado"
+- producto: "Control de Peso/Castrado"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -6406,16 +6276,16 @@
   - precio: 8114.7
   - disponible: true
 
-- producto: "COMPLETE Control de Peso/Castrado"
+- producto: "Control de Peso/Castrado"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 34987.92
+  - precio: 37500.00
   - disponible: true
 
-- producto: "COMPLETE Senior"
+- producto: "Senior"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -6424,7 +6294,7 @@
   - precio: 8114.7
   - disponible: true
 
-- producto: "COMPLETE Senior"
+- producto: "Senior"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6433,7 +6303,7 @@
   - precio: 34987.92
   - disponible: true
 
-- producto: "COMPLETE Urinary"
+- producto: "Urinary"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 1.5
@@ -6442,13 +6312,13 @@
   - precio: 8114.7
   - disponible: true
 
-- producto: "COMPLETE Urinary"
+- producto: "Urinary"
   - marca: "Complete"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 34987.92
+  - precio: 37500.00
   - disponible: true
 
 ### BELCAT
@@ -6480,7 +6350,7 @@
   - precio: 21291.76
   - disponible: true
 
-- producto: "BELCAT Adulto Safety pack"
+- producto: "Adulto Safety pack"
   - marca: "Belcat"
   - tipo_animal: "Gato"
   - cantidad: 24
@@ -6491,7 +6361,7 @@
 
 ### THERAPY GATO
 
-- producto: "THERAPY FELINE Gastrointestinal A."
+- producto: "FELINE Gastrointestinal A."
   - marca: "Therapy"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6500,7 +6370,7 @@
   - precio: 22466.02
   - disponible: true
 
-- producto: "THERAPY FELINE Hypoallergenic C."
+- producto: "FELINE Hypoallergenic C."
   - marca: "Therapy"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6509,7 +6379,7 @@
   - precio: 28049.46
   - disponible: true
 
-- producto: "THERAPY FELINE Obesity Mgnt."
+- producto: "FELINE Obesity Mgnt."
   - marca: "Therapy"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6518,7 +6388,7 @@
   - precio: 19632.54
   - disponible: true
 
-- producto: "THERAPY FELINE Renal Care"
+- producto: "FELINE Renal Care"
   - marca: "Therapy"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6527,7 +6397,7 @@
   - precio: 21010.98
   - disponible: true
 
-- producto: "THERAPY FELINE Urinary Health"
+- producto: "FELINE Urinary Health"
   - marca: "Therapy"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6536,7 +6406,7 @@
   - precio: 22925.52
   - disponible: true
 
-- producto: "THERAPY FELINE Urinary Health"
+- producto: "FELINE Urinary Health"
   - marca: "Therapy"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6547,7 +6417,7 @@
 
 ### NUTRIQUE GATO
 
-- producto: "NUTRIQUE Baby Cat & Kitten"
+- producto: "Baby Cat & Kitten"
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 0.35
@@ -6556,7 +6426,7 @@
   - precio: 6302.04
   - disponible: true
 
-- producto: "NUTRIQUE Baby Cat & Kitten"
+- producto: "Baby Cat & Kitten"
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6565,7 +6435,7 @@
   - precio: 34099.4
   - disponible: true
 
-- producto: "NUTRIQUE Baby Cat & Kitten"
+- producto: "Baby Cat & Kitten"
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6574,7 +6444,7 @@
   - precio: 94945.69
   - disponible: true
 
-- producto: "NUTRIQUE Young Adult Cat Healthy Maint."
+- producto: "Young Adult Cat Healthy Maint."
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 0.35
@@ -6583,7 +6453,7 @@
   - precio: 5789.09
   - disponible: true
 
-- producto: "NUTRIQUE Young Adult Cat Healthy Maint."
+- producto: "Young Adult Cat Healthy Maint."
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6592,7 +6462,7 @@
   - precio: 30150.44
   - disponible: true
 
-- producto: "NUTRIQUE Young Adult Cat Healthy Maint."
+- producto: "Young Adult Cat Healthy Maint."
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6601,7 +6471,7 @@
   - precio: 86948.91
   - disponible: true
 
-- producto: "NUTRIQUE Young Adult CatSteril/H. Weight"
+- producto: "Young Adult CatSteril/H. Weight"
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 0.35
@@ -6610,7 +6480,7 @@
   - precio: 6302.04
   - disponible: true
 
-- producto: "NUTRIQUE Young Adult CatSteril/H. Weight"
+- producto: "Young Adult CatSteril/H. Weight"
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6619,7 +6489,7 @@
   - precio: 32967.65
   - disponible: true
 
-- producto: "NUTRIQUE Young Adult CatSteril/H. Weight"
+- producto: "Young Adult CatSteril/H. Weight"
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6628,7 +6498,7 @@
   - precio: 86948.91
   - disponible: true
 
-- producto: "NUTRIQUE Urinary Care Cat"
+- producto: "Urinary Care Cat"
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6637,7 +6507,7 @@
   - precio: 32397.69
   - disponible: true
 
-- producto: "NUTRIQUE Urinary Care Cat"
+- producto: "Urinary Care Cat"
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6646,7 +6516,7 @@
   - precio: 89811.76
   - disponible: true
 
-- producto: "NUTRIQUE Adult +7 Cat Healthy Maint."
+- producto: "Adult +7 Cat Healthy Maint."
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 2
@@ -6655,7 +6525,7 @@
   - precio: 29788.63
   - disponible: true
 
-- producto: "NUTRIQUE Adult +7 Cat Healthy Maint."
+- producto: "Adult +7 Cat Healthy Maint."
   - marca: "Nutrique"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6666,7 +6536,7 @@
 
 ### PREMIUM GATO
 
-- producto: "PREMIUM Gato Kitten"
+- producto: "Gato Kitten"
   - marca: "Premium"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6675,16 +6545,16 @@
   - precio: 29615.85
   - disponible: true
 
-- producto: "PREMIUM Gato Adult"
+- producto: "Gato Adult"
   - marca: "Premium"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 28448.2
+  - precio: 29700.00
   - disponible: true
 
-- producto: "PREMIUM Gato Adult"
+- producto: "Gato Adult"
   - marca: "Premium"
   - tipo_animal: "Gato"
   - cantidad: 20
@@ -6693,7 +6563,7 @@
   - precio: 68997.5
   - disponible: true
 
-- producto: "PREMIUM Gato Adult Safety"
+- producto: "Gato Adult Safety"
   - marca: "Premium"
   - tipo_animal: "Gato"
   - cantidad: 24
@@ -6702,18 +6572,18 @@
   - precio: 87255.3
   - disponible: true
 
-- producto: "PREMIUM Gato Urinary"
+- producto: "Gato Urinary"
   - marca: "Premium"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 31208.1
+  - precio: 30800.00
   - disponible: true
 
 ### EUKANUBA GATO
 
-- producto: "EUKANUBA Gato Kitten"
+- producto: "Gato Kitten"
   - marca: "Eukanuba"
   - tipo_animal: "Gato"
   - cantidad: 1
@@ -6722,16 +6592,16 @@
   - precio: 10144.13
   - disponible: true
 
-- producto: "EUKANUBA Gato Kitten"
+- producto: "Gato Kitten"
   - marca: "Eukanuba"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 27390.05
+  - precio: 24500.00
   - disponible: true
 
-- producto: "EUKANUBA Gato Kitten"
+- producto: "Gato Kitten"
   - marca: "Eukanuba"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6740,45 +6610,45 @@
   - precio: 59882.59
   - disponible: true
 
-- producto: "EUKANUBA Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Eukanuba"
   - tipo_animal: "Gato"
   - cantidad: 1.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 13384.91
+  - precio: 12800.00
   - disponible: true
 
-- producto: "EUKANUBA Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Eukanuba"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 24755.55
+  - precio: 23500.00
   - disponible: true
 
-- producto: "EUKANUBA Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Eukanuba"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 57064.61
+  - precio: 58600.00
   - disponible: true
 
-- producto: "EUKANUBA Gato Adulto"
+- producto: "Gato Adulto"
   - marca: "Eukanuba"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 103370.83
+  - precio: 108300.00
   - disponible: true
 
 ### IAMS GATO
 
-- producto: "IAMS Kitten"
+- producto: "Kitten"
   - marca: "Iams"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6787,7 +6657,7 @@
   - precio: 27621.0
   - disponible: true
 
-- producto: "IAMS Gato adulto"
+- producto: "Gato adulto"
   - marca: "Iams"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6796,7 +6666,7 @@
   - precio: 25063.5
   - disponible: true
 
-- producto: "IAMS Gato adulto"
+- producto: "Gato adulto"
   - marca: "Iams"
   - tipo_animal: "Gato"
   - cantidad: 15
@@ -6805,7 +6675,7 @@
   - precio: 99435.6
   - disponible: true
 
-- producto: "IAMS Gato adulto light"
+- producto: "Gato adulto light"
   - marca: "Iams"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -6816,173 +6686,173 @@
 
 ### FAWNA
 
-- producto: "FAWNA Gato Kitten"
+- producto: "Gato Kitten"
   - marca: "Fawna"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 11920.37
+  - precio: 12600.00
   - disponible: true
 
-- producto: "FAWNA Gato Kitten"
+- producto: "Gato Kitten"
   - marca: "Fawna"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 33667.03
+  - precio: 36100.00
   - disponible: true
 
-- producto: "FAWNA Adult Cat"
+- producto: "Adult Cat"
   - marca: "Fawna"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 32136.93
+  - precio: 36100.00
   - disponible: true
 
-- producto: "FAWNA Adult Cat"
+- producto: "Adult Cat"
   - marca: "Fawna"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 61281.82
+  - precio: 61900.00
   - disponible: true
 
-- producto: "FAWNA Adult Cat Sterilized"
+- producto: "Adult Cat Sterilized"
   - marca: "Fawna"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 36029.64
+  - precio: 38800.00
   - disponible: true
 
-- producto: "FAWNA Adult Cat Sterilized"
+- producto: "Adult Cat Sterilized"
   - marca: "Fawna"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 67440.84
+  - precio: 67900.00
   - disponible: true
 
-- producto: "FAWNA Urinary Cat"
+- producto: "Urinary Cat"
   - marca: "Fawna"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 38043.41
+  - precio: 40300.00
   - disponible: true
 
-- producto: "FAWNA Urinary Cat"
+- producto: "Urinary Cat"
   - marca: "Fawna"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 69962.63
+  - precio: 70600.00
   - disponible: true
 
 ### OLD PRINCE NOVEL CORDERO Y ARROZ
 
-- producto: "Old Prince Novel Cordero y Arroz Cat Kitten"
+- producto: "Novel Cordero y Arroz Cat Kitten"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 10470.35
+  - precio: 11900.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y Arroz Cat Kitten"
+- producto: "Novel Cordero y Arroz Cat Kitten"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 28545.52
+  - precio: 32400.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y Arroz Gatos Adultos"
+- producto: "Novel Cordero y Arroz Gatos Adultos"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 9518.5
+  - precio: 10800.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y Arroz Gatos Adultos"
+- producto: "Novel Cordero y Arroz Gatos Adultos"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 25953.97
+  - precio: 29300.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y Arroz Gatos Adultos"
+- producto: "Novel Cordero y Arroz Gatos Adultos"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 57349.79
+  - precio: 58400.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y Arroz Adult Cat Sterilized"
+- producto: "Novel Cordero y Arroz Adult Cat Sterilized"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 10570.25
+  - precio: 11900.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y Arroz Adult Cat Sterilized"
+- producto: "Novel Cordero y Arroz Adult Cat Sterilized"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 28546.95
+  - precio: 32400.00
   - disponible: true
 
-- producto: "Old Prince Novel Cordero y Arroz Adult Cat Sterilized"
+- producto: "Novel Cordero y Arroz Adult Cat Sterilized"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 63719.97
+  - precio: 64900.00
   - disponible: true
 
 ### Old Prince Equilibrium CATS
 
-- producto: "OP EQ Optimal Growth KITTEN"
+- producto: "EQ Optimal Growth KITTEN"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 1
   - unidad: "kg"
   - presentacion: null
-  - precio: 7693.29
+  - precio: 8300.00
   - disponible: true
 
-- producto: "OP EQ Optimal Growth KITTEN"
+- producto: "EQ Optimal Growth KITTEN"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 20923.58
+  - precio: 23000.00
   - disponible: true
 
-- producto: "OP EQ Optimal Growth KITTEN"
+- producto: "EQ Optimal Growth KITTEN"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -6991,7 +6861,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "Old Prince Cats Indoor"
+- producto: "Cats Indoor"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 1
@@ -7000,7 +6870,7 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "Old Prince Cats Indoor"
+- producto: "Cats Indoor"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 3
@@ -7009,7 +6879,7 @@
   - precio: 20922.15
   - disponible: true
 
-- producto: "Old Prince Cats Indoor"
+- producto: "Cats Indoor"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 7.5
@@ -7018,7 +6888,7 @@
   - precio: 48465.19
   - disponible: true
 
-- producto: "Old Prince Equilibrium Cats Adults Complete Care"
+- producto: "Equilibrium Cats Adults Complete Care"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 1
@@ -7027,25 +6897,25 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "Old Prince Equilibrium Cats Adults Complete Care"
+- producto: "Equilibrium Cats Adults Complete Care"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 19019.88
+  - precio: 20800.00
   - disponible: true
 
-- producto: "Old Prince Equilibrium Cats Adults Complete Care"
+- producto: "Equilibrium Cats Adults Complete Care"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 44060.03
+  - precio: 45000.00
   - disponible: true
 
-- producto: "Old Prince Equilibrium Cats Adults Urinary Care"
+- producto: "Equilibrium Cats Adults Urinary Care"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 1
@@ -7054,42 +6924,42 @@
   - precio: 0.00
   - disponible: false
 
-- producto: "Old Prince Equilibrium Cats Adults Urinary Care"
+- producto: "Equilibrium Cats Adults Urinary Care"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
   - presentacion: null
-  - precio: 21826.91
+  - precio: 23700.00
   - disponible: true
 
-- producto: "Old Prince Equilibrium Cats Adults Urinary Care"
+- producto: "Equilibrium Cats Adults Urinary Care"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 50559.15
+  - precio: 51900.00
   - disponible: true
 
 ### Old Prince PREMIUM
 
-- producto: "Old Prince Premium Gatitos"
+- producto: "Premium Gatitos"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 34253.18
+  - precio: 34900.00
   - disponible: true
 
-- producto: "Old Prince Premium Gato Adulto"
+- producto: "Premium Gato Adulto"
   - marca: "Old Prince"
   - tipo_animal: "Gato"
   - cantidad: 7.5
   - unidad: "kg"
   - presentacion: null
-  - precio: 31075.8
+  - precio: 31800.00
   - disponible: true
 
 ### MAINTENANCE GATO
@@ -7100,76 +6970,72 @@
   - cantidad: 15
   - unidad: "kg"
   - presentacion: null
-  - precio: 31612.68
+  - precio: 32600.00
   - disponible: true
 
 ### WHISKAS GATO
-
-- producto: "WHISKAS POUCH Gato adulto Pavo"
-  - marca: "Whiskas"
-  - tipo_animal: "Gato"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "12 x 85gr"
-  - precio: 0.00
-  - disponible: false
-
-- producto: "WHISKAS LATA Gatitos Carne"
-  - marca: "Whiskas"
-  - tipo_animal: "Gato"
-  - cantidad: null
-  - unidad: null
-  - presentacion: "x340gr"
-  - precio: 0.00
-  - disponible: false
 
 ## Húmedos Sieger
 
 ### Katze
 
-- producto: "KATZE Lata Adult Salmón y Pollo"
+- producto: "Lata Adult Salmón y Pollo"
+  - marca: "Katze"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "340gx6"
   - precio: 0.00
   - disponible: false
 
-- producto: "KATZE Lata Adult Hairball"
+- producto: "Lata Adult Hairball"
+  - marca: "Katze"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "340gx6"
   - precio: 0.00
   - disponible: false
 
-- producto: "KATZE Lata Kitten Pollo"
+- producto: "Lata Kitten Pollo"
+  - marca: "Katze"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "340gx6"
   - precio: 0.00
   - disponible: false
 
-- producto: "KATZE Lata Adult Urinary"
+- producto: "Lata Adult Urinary"
+  - marca: "Katze"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "340gx6"
   - precio: 18226.79
   - disponible: true
 
-- producto: "KATZE Pouch Kitten Pollo"
+- producto: "Pouch Kitten Pollo"
+  - marca: "Katze"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "100gx12"
   - precio: 0.00
   - disponible: false
 
-- producto: "KATZE Pouch Adult Salmón y Pollo"
+- producto: "Pouch Adult Salmón y Pollo"
+  - marca: "Katze"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "100gx12"
   - precio: 16906.82
   - disponible: true
 
-- producto: "KATZE Pouch Adult Urinary"
+- producto: "Pouch Adult Urinary"
+  - marca: "Katze"
+  - tipo_animal: "Gato"
   - cantidad: null
   - unidad: null
   - presentacion: "100gx12"
@@ -7180,6 +7046,7 @@
 
 - producto: "HMD Pouch Sardine"
   - marca: "Home Made Delights"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: "100gx12"
@@ -7188,6 +7055,7 @@
 
 - producto: "HMD Pouch Salmon"
   - marca: "Home Made Delights"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: "100gx12"
@@ -7196,6 +7064,7 @@
 
 - producto: "HMD Pouch White Croaker"
   - marca: "Home Made Delights"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: "100gx12"
@@ -7204,6 +7073,7 @@
 
 - producto: "HMD Lata Salmon"
   - marca: "Home Made Delights"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: "340gx6"
@@ -7212,6 +7082,7 @@
 
 - producto: "HMD Lata Sardine"
   - marca: "Home Made Delights"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: "340gx6"
@@ -7220,6 +7091,7 @@
 
 - producto: "HMD Lata Turkey"
   - marca: "Home Made Delights"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: "340gx6"
@@ -7230,25 +7102,28 @@
 
 ### Piedras Blancas
 
-- producto: "ABSORSOL Clásica Verde"
+- producto: "Clásica Verde"
+  - marca: "Absorsol"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 9921.6
+  - precio: 9700.00
   - disponible: true
   - observaciones: "Cantidad por bolsón: 6 unid."
 
-- producto: "ABSORSOL Clásica Verde"
+- producto: "Clásica Verde"
+  - marca: "Absorsol"
   - tipo_animal: "Gato"
   - cantidad: 3.6
   - unidad: "kg"
   - presentacion: null
-  - precio: 18189.6
+  - precio: 16200.00
   - disponible: true
   - observaciones: "Cantidad por bolsón: 6 unid."
 
-- producto: "ABSORSOL Clásica Verde"
+- producto: "Clásica Verde"
+  - marca: "Absorsol"
   - tipo_animal: "Gato"
   - cantidad: 8
   - unidad: "kg"
@@ -7257,43 +7132,48 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 1 unid."
 
-- producto: "ABSORSOL Alta Gama Negra"
+- producto: "Alta Gama Negra"
+  - marca: "Absorsol"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 0.00
-  - disponible: false
+  - precio: 11000.00
+  - disponible: true
   - observaciones: "Cantidad por bolsón: 6 unid."
 
-- producto: "ABSORSOL Alta Gama Negra"
+- producto: "Alta Gama Negra"
+  - marca: "Absorsol"
   - tipo_animal: "Gato"
   - cantidad: 3.6
   - unidad: "kg"
   - presentacion: null
-  - precio: 21356.4
+  - precio: 19000.00
   - disponible: true
   - observaciones: "Cantidad por bolsón: 6 unid."
 
-- producto: "ABSORSOL Alta Gama Perfumada"
+- producto: "Alta Gama Perfumada"
+  - marca: "Absorsol"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
   - presentacion: null
-  - precio: 0.00
-  - disponible: false
+  - precio: 14100.00
+  - disponible: true
   - observaciones: "Cantidad por bolsón: 6 unid."
 
-- producto: "ABSORSOL Alta Gama Perfumada"
+- producto: "Alta Gama Perfumada"
+  - marca: "Absorsol"
   - tipo_animal: "Gato"
   - cantidad: 3.6
   - unidad: "kg"
   - presentacion: null
-  - precio: 27526.2
+  - precio: 24500.00
   - disponible: true
   - observaciones: "Cantidad por bolsón: 6 unid."
 
-- producto: "MICHI FELIZ Piedra sanitaria"
+- producto: "Piedra sanitaria"
+  - marca: "Michi Feliz"
   - tipo_animal: "Gato"
   - cantidad: 1.8
   - unidad: "kg"
@@ -7303,6 +7183,7 @@
   - observaciones: "Cantidad por bolsón: 6 unid."
 
 - producto: "DIABSORB"
+  - marca: "Diabsorb"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
@@ -7312,6 +7193,7 @@
   - observaciones: "Cantidad por bolsón: 9 unid."
 
 - producto: "DIABSORB"
+  - marca: "Diabsorb"
   - tipo_animal: "Gato"
   - cantidad: 4
   - unidad: "kg"
@@ -7321,6 +7203,7 @@
   - observaciones: "Cantidad por bolsón: 5 unid."
 
 - producto: "DIABSORB"
+  - marca: "Diabsorb"
   - tipo_animal: "Gato"
   - cantidad: 10
   - unidad: "kg"
@@ -7330,6 +7213,7 @@
   - observaciones: "Cantidad por bolsón: 1 unid."
 
 - producto: "DIABSORB"
+  - marca: "Diabsorb"
   - tipo_animal: "Gato"
   - cantidad: 25
   - unidad: "kg"
@@ -7339,6 +7223,7 @@
   - observaciones: "Cantidad por bolsón: 1 unid."
 
 - producto: "LIMPITO"
+  - marca: "Limpito"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
@@ -7348,6 +7233,7 @@
   - observaciones: "Cantidad por bolsón: 8 unid."
 
 - producto: "LIMPITO"
+  - marca: "Limpito"
   - tipo_animal: "Gato"
   - cantidad: 10
   - unidad: "kg"
@@ -7357,6 +7243,7 @@
   - observaciones: "Cantidad por bolsón: 1 unid."
 
 - producto: "DIAB FAUZ"
+  - marca: "Diab Fauz"
   - tipo_animal: "Gato"
   - cantidad: 3
   - unidad: "kg"
@@ -7365,7 +7252,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 7 unid."
 
-- producto: "SEQUITAS Piedras Sanitarias"
+- producto: "Piedras Sanitarias"
+  - marca: "Sequitas"
   - tipo_animal: "Gato"
   - cantidad: 2
   - unidad: "kg"
@@ -7376,7 +7264,8 @@
 
 ### Piedras Aglomerantes
 
-- producto: "BONCHAT Mineral Aglomerante"
+- producto: "Mineral Aglomerante"
+  - marca: "Bonchat"
   - tipo_animal: "Gato"
   - cantidad: 4
   - unidad: "kg/litros"
@@ -7385,7 +7274,8 @@
   - disponible: false
   - observaciones: "Cantidad por bolsón: 5 unid."
 
-- producto: "STONE CAT Mineral Aglomerante"
+- producto: "Mineral Aglomerante"
+  - marca: "Stone Cat"
   - tipo_animal: "Gato"
   - cantidad: 4
   - unidad: "kg/litros"
@@ -7394,7 +7284,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 5 unid."
 
-- producto: "STONE CAT Mineral Aglomerante"
+- producto: "Mineral Aglomerante"
+  - marca: "Stone Cat"
   - tipo_animal: "Gato"
   - cantidad: 8
   - unidad: "kg/litros"
@@ -7403,7 +7294,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 1 unid."
 
-- producto: "MONKAT Mineral Aglomerante"
+- producto: "Mineral Aglomerante"
+  - marca: "Monkat"
   - tipo_animal: "Gato"
   - cantidad: 4
   - unidad: "kg/litros"
@@ -7412,7 +7304,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 5 unid."
 
-- producto: "GATTO Mineral Aglomerante"
+- producto: "Mineral Aglomerante"
+  - marca: "Gatto"
   - tipo_animal: "Gato"
   - cantidad: 4
   - unidad: "kg/litros"
@@ -7421,7 +7314,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 4 unid."
 
-- producto: "RUBICAT Classic"
+- producto: "Classic"
+  - marca: "Rubicat"
   - tipo_animal: "Gato"
   - cantidad: 5.3
   - unidad: "kg/litros"
@@ -7430,7 +7324,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 1 unid."
 
-- producto: "RUBICAT Classic Pack Ahorro"
+- producto: "Classic Pack Ahorro"
+  - marca: "Rubicat"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg/litros"
@@ -7439,7 +7334,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 1 unid."
 
-- producto: "RUBICAT Lavanda"
+- producto: "Lavanda"
+  - marca: "Rubicat"
   - tipo_animal: "Gato"
   - cantidad: 5.3
   - unidad: "kg/litros"
@@ -7448,7 +7344,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 1 unid."
 
-- producto: "RUBICAT Premium"
+- producto: "Premium"
+  - marca: "Rubicat"
   - tipo_animal: "Gato"
   - cantidad: 5.7
   - unidad: "kg/litros"
@@ -7457,7 +7354,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 1 unid."
 
-- producto: "RUBICAT Premium"
+- producto: "Premium"
+  - marca: "Rubicat"
   - tipo_animal: "Gato"
   - cantidad: 11
   - unidad: "kg/litros"
@@ -7466,7 +7364,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 1 unid."
 
-- producto: "RUBICAT Premium Pack Ahorro"
+- producto: "Premium Pack Ahorro"
+  - marca: "Rubicat"
   - tipo_animal: "Gato"
   - cantidad: 10
   - unidad: "kg/litros"
@@ -7525,7 +7424,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 1 unid."
 
-- producto: "Can Cat Algutinante"
+- producto: "Algutinante"
+  - marca: "Can Cat"
   - tipo_animal: "Gato"
   - cantidad: 6
   - unidad: "kg/litros"
@@ -7536,7 +7436,8 @@
 
 ### Palitos Madera
 
-- producto: "POOPY PETS Colchon Sanitario"
+- producto: "Colchon Sanitario"
+  - marca: "Poopy Pets"
   - tipo_animal: "Gato"
   - cantidad: 5
   - unidad: "kg/litros"
@@ -7545,7 +7446,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 5 unid."
 
-- producto: "POOPY PETS Colchon Sanitario"
+- producto: "Colchon Sanitario"
+  - marca: "Poopy Pets"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg/litros"
@@ -7554,7 +7456,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 1 unid."
 
-- producto: "POOPY PETS Viruta Roedores"
+- producto: "Viruta Roedores"
+  - marca: "Poopy Pets"
   - tipo_animal: "Gato"
   - cantidad: 5.0
   - unidad: "litros"
@@ -7563,7 +7466,8 @@
   - disponible: true
   - observaciones: "Cantidad por bolsón: 10 unid."
 
-- producto: "TRONQUITOS Colchon Sanitario"
+- producto: "Colchon Sanitario"
+  - marca: "Tronquitos"
   - tipo_animal: "Gato"
   - cantidad: 3.5
   - unidad: "kg/litros"
@@ -7572,7 +7476,8 @@
   - disponible: false
   - observaciones: "Cantidad por bolsón: 5 unid."
 
-- producto: "TRONQUITOS Colchon Sanitario"
+- producto: "Colchon Sanitario"
+  - marca: "Tronquitos"
   - tipo_animal: "Gato"
   - cantidad: 15
   - unidad: "kg/litros"
@@ -7583,7 +7488,8 @@
 
 ### Silicas
 
-- producto: "CrystalCat Silica 3,8Lts"
+- producto: "Silica 3,8Lts"
+  - marca: "CrystalCat"
   - tipo_animal: "Gato"
   - cantidad: 3.8
   - unidad: "litros"
@@ -7598,6 +7504,7 @@
 
 - producto: "Piedra Silica Clásica"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 3.8
   - unidad: "litros"
   - presentacion: null
@@ -7606,6 +7513,7 @@
 
 - producto: "Piedra Silica Lavanda"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 3.8
   - unidad: "litros"
   - presentacion: null
@@ -7614,6 +7522,7 @@
 
 - producto: "Piedra Silica Brisa Fresca"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 3.8
   - unidad: "litros"
   - presentacion: null
@@ -7622,6 +7531,7 @@
 
 - producto: "Piedra Silica Limón"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 3.8
   - unidad: "litros"
   - presentacion: null
@@ -7630,6 +7540,7 @@
 
 - producto: "Piedra Silica Rosas"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 3.8
   - unidad: "litros"
   - presentacion: null
@@ -7638,6 +7549,7 @@
 
 - producto: "Piedra Silica Cítricos"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 3.8
   - unidad: "litros"
   - presentacion: null
@@ -7646,6 +7558,7 @@
 
 - producto: "Piedra Silica - Family Pack Neutra"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 7.6
   - unidad: "litros"
   - presentacion: null
@@ -7654,6 +7567,7 @@
 
 - producto: "Piedra Silica - Family Pack Lavanda"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 7.6
   - unidad: "litros"
   - presentacion: null
@@ -7662,6 +7576,7 @@
 
 - producto: "Piedra Silica Clásica"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 2
   - unidad: "litros"
   - presentacion: null
@@ -7670,6 +7585,7 @@
 
 - producto: "Piedra Silica Lavanda"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 2
   - unidad: "litros"
   - presentacion: null
@@ -7680,6 +7596,7 @@
 
 - producto: "Paños Premium (60x60 cms)"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 7
   - unidad: "unidades"
   - presentacion: null
@@ -7688,6 +7605,7 @@
 
 - producto: "Paños Premium Girl (60 x 60 cms)"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 10
   - unidad: "unidades"
   - presentacion: null
@@ -7696,6 +7614,7 @@
 
 - producto: "Paños Premium Boy (60 x 60 cms)"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 10
   - unidad: "unidades"
   - presentacion: null
@@ -7704,6 +7623,7 @@
 
 - producto: "Paños Premium (60 x 40 cms)"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 20
   - unidad: "unidades"
   - presentacion: null
@@ -7712,6 +7632,7 @@
 
 - producto: "Paños Premium (60 x 40 cms)"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 30
   - unidad: "unidades"
   - presentacion: null
@@ -7720,6 +7641,7 @@
 
 - producto: "Paños Premium (60 x 40 cms)"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 50
   - unidad: "unidades"
   - presentacion: null
@@ -7728,6 +7650,7 @@
 
 - producto: "Paños Premium (60 x 40 cms)"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 100
   - unidad: "unidades"
   - presentacion: null
@@ -7736,6 +7659,7 @@
 
 - producto: "Paños Carbon Activado (60 x 60 cms)"
   - marca: "Can Cat"
+  - tipo_animal: "General"
   - cantidad: 10
   - unidad: "unidades"
   - presentacion: null
@@ -7811,7 +7735,7 @@
 
 - producto: "COMPRIMIDO POWER Perro 2,5kg a 5kg/ Gato 2kg a 3kg (Violeta)"
   - marca: "Brouwer"
-  - tipo_animal: "Gato"
+  - tipo_animal: "Perro y gato"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7820,7 +7744,7 @@
 
 - producto: "COMPRIMIDO POWER Perro 5kg a 10kg/ Gato 3kg a 6kg (Roja)"
   - marca: "Brouwer"
-  - tipo_animal: "Gato"
+  - tipo_animal: "Perro y gato"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7829,7 +7753,7 @@
 
 - producto: "COMPRIMIDO POWER Perro 10kg a 20kg/ Gato 6kg a 12kg (Verde)"
   - marca: "Brouwer"
-  - tipo_animal: "Gato"
+  - tipo_animal: "Perro y gato"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7856,6 +7780,7 @@
 
 - producto: "ARTRIN"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7864,6 +7789,7 @@
 
 - producto: "ARTRIN PLUS"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7872,6 +7798,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 1M 2kg a 4,5kg (Violeta)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7880,6 +7807,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 1M 4,6kg a 10kg (Roja)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7888,6 +7816,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 1M 10,1kg a 20kg (Verde)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7896,6 +7825,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 1M 20,1kg a 40kg (Naranja)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7904,6 +7834,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 1M 40,1kg a 56kg (Azul)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7912,6 +7843,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 3M 2kg a 4,5kg (Violeta)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7920,6 +7852,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 3M 4,6kg a 10kg (Roja)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7928,6 +7861,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 3M 10,1kg a 20kg (Verde)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7936,6 +7870,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 3M 20,1kg a 40kg (Naranja)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -7944,6 +7879,7 @@
 
 - producto: "POWER GOLD COMPRIMIDO 3M 40,1kg a 56kg (Azul)"
   - marca: "Brouwer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8017,6 +7953,7 @@
 
 - producto: "HECTOPAR Talco Pulguicida 100gr"
   - marca: "Elmer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8025,6 +7962,7 @@
 
 - producto: "HECTOPAR Liquido 70ml"
   - marca: "Elmer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8033,13 +7971,14 @@
 
 - producto: "HECTOPAR Liquido 120ml"
   - marca: "Elmer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 6433.0
   - disponible: true
 
-- producto: "ELMER Vermican Suspension Perro/Gato 20ml"
+- producto: "Vermican Suspension Perro/Gato 20ml"
   - marca: "Elmer"
   - tipo_animal: "Perro y gato"
   - cantidad: null
@@ -8048,31 +7987,34 @@
   - precio: 2698.49
   - disponible: true
 
-- producto: "ELMER Puaj Conducin 100ml"
+- producto: "Puaj Conducin 100ml"
   - marca: "Elmer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 4112.21
   - disponible: true
 
-- producto: "ELMER NO ACA Repelente Concentrado 500ml"
+- producto: "NO ACA Repelente Concentrado 500ml"
   - marca: "Elmer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 5360.58
   - disponible: true
 
-- producto: "ELMER NO ACA Repelente Concentrado 1L"
+- producto: "NO ACA Repelente Concentrado 1L"
   - marca: "Elmer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 10049.2
   - disponible: true
 
-- producto: "ELMER Shampoo Cachorro 250ml"
+- producto: "Shampoo Cachorro 250ml"
   - marca: "Elmer"
   - tipo_animal: "Perro"
   - cantidad: null
@@ -8081,16 +8023,18 @@
   - precio: 2948.78
   - disponible: true
 
-- producto: "ELMER Shampoo Blanco 250ml"
+- producto: "Shampoo Blanco 250ml"
   - marca: "Elmer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 2948.78
   - disponible: true
 
-- producto: "ELMER Shampoo + Enjuague 250ml"
+- producto: "Shampoo + Enjuague 250ml"
   - marca: "Elmer"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8227,6 +8171,7 @@
 
 - producto: "SPRAY FRONTLINE 100ml"
   - marca: "Merial"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8235,6 +8180,7 @@
 
 - producto: "SPRAY FRONTLINE 250ml"
   - marca: "Merial"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8393,6 +8339,7 @@
 
 - producto: "CREMA 6A 15g"
   - marca: "Labyes"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8402,6 +8349,7 @@
 
 - producto: "CREMA 6A 30g"
   - marca: "Labyes"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8475,6 +8423,7 @@
 
 - producto: "ANTIPARASITARIO EXTERNO ECTHOL 5 x70ml"
   - marca: "Holliday"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8483,6 +8432,7 @@
 
 - producto: "ANTIPARASITARIO EXTERNO ECTHOL 5 x120ml"
   - marca: "Holliday"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8518,6 +8468,7 @@
 
 - producto: "CARDIAL B 2,5 x 20 Comprimidos"
   - marca: "Holliday"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8526,6 +8477,7 @@
 
 - producto: "CARDIAL B 5 x 20 Comprimidos"
   - marca: "Holliday"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8534,6 +8486,7 @@
 
 - producto: "CARDIAL B 10 x 20 Comprimidos"
   - marca: "Holliday"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8542,6 +8495,7 @@
 
 - producto: "TRANQUILIZANTE ACEDAN 10mg"
   - marca: "Holliday"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8550,48 +8504,54 @@
 
 ### Simparica
 
-- producto: "SIMPARICA Comprimido 0 A 2.5 KG"
+- producto: "Comprimido 0 A 2.5 KG"
   - marca: "Simparica"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 10267.97
   - disponible: true
 
-- producto: "SIMPARICA Comprimido 2.5 A 5 KG"
+- producto: "Comprimido 2.5 A 5 KG"
   - marca: "Simparica"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 11106.38
   - disponible: true
 
-- producto: "SIMPARICA Comprimido 5 A 10 KG"
+- producto: "Comprimido 5 A 10 KG"
   - marca: "Simparica"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 11899.0
   - disponible: true
 
-- producto: "SIMPARICA Comprimido 10 A 20 KG"
+- producto: "Comprimido 10 A 20 KG"
   - marca: "Simparica"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 14669.47
   - disponible: true
 
-- producto: "SIMPARICA Comprimido 20 A 40 KG"
+- producto: "Comprimido 20 A 40 KG"
   - marca: "Simparica"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 17184.47
   - disponible: true
 
-- producto: "SIMPARICA Comprimido 40 A 60 KG"
+- producto: "Comprimido 40 A 60 KG"
   - marca: "Simparica"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8600,6 +8560,7 @@
 
 - producto: "DENTAL PLAX"
   - marca: "Simparica"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8612,6 +8573,7 @@
 
 - producto: "Potenciado"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8620,6 +8582,7 @@
 
 - producto: "Potenciado Plus"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8628,6 +8591,7 @@
 
 - producto: "Medicado Hipoalergenico"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8636,6 +8600,7 @@
 
 - producto: "Clorhexpro"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8644,6 +8609,7 @@
 
 - producto: "Clorhexidina al 2,5%"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8652,6 +8618,7 @@
 
 - producto: "Peroxido de Benzoilo"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8660,6 +8627,7 @@
 
 - producto: "Double (2 en 1)"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8668,6 +8636,7 @@
 
 - producto: "Tradicional Pulguicida Garrapaticida"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8676,6 +8645,7 @@
 
 - producto: "Aqua Ecto"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8684,6 +8654,7 @@
 
 - producto: "Natural Neem"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8692,6 +8663,7 @@
 
 - producto: "Maximo Color (Tonalizador Bronce, Blanco y Negro)"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8709,6 +8681,7 @@
 
 - producto: "Aceite de Jojoba"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8717,6 +8690,7 @@
 
 - producto: "Avena y Aloe Vera"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8734,6 +8708,7 @@
 
 - producto: "Mix Frutal (Perfumado c/ alantoina)"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8742,6 +8717,7 @@
 
 - producto: "Amitraz al 0,25%"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8750,6 +8726,7 @@
 
 - producto: "Belleza Groomers Expert"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8758,6 +8735,7 @@
 
 - producto: "Algas"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8768,6 +8746,7 @@
 
 - producto: "Enjuague Especial x250cc"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8776,6 +8755,7 @@
 
 - producto: "Locion Desatanudos x130ml"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8784,6 +8764,7 @@
 
 - producto: "Cera Insecticida para pisos concentrada"
   - marca: "Osspret"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -8794,240 +8775,270 @@
 
 ### Golocan
 
-- producto: "GOLOCAN Bocaditos C, P, CH (100g unidad)"
+- producto: "Bocaditos C, P, CH (100g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1394.07
   - disponible: true
 
-- producto: "GOLOCAN Bocaditos J, Q, E (100g unidad)"
+- producto: "Bocaditos J, Q, E (100g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1394.07
   - disponible: true
 
-- producto: "GOLOCAN Bocaditos M, F, D (100g unidad)"
+- producto: "Bocaditos M, F, D (100g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1394.07
   - disponible: true
 
-- producto: "GOLOCAN Bocaditos CHOC (100g unidad)"
+- producto: "Bocaditos CHOC (100g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1394.07
   - disponible: true
 
-- producto: "GOLOCAN Mini Bocaditos (carne, pollo y choc.) (unidadx55g)"
+- producto: "Mini Bocaditos (carne, pollo y choc.) (unidadx55g)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "GOLOCAN Palitos Carne (80g unidad)"
+- producto: "Palitos Carne (80g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "GOLOCAN Palitos Pollo (80g unidad)"
+- producto: "Palitos Pollo (80g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 987.23
   - disponible: true
 
-- producto: "GOLOCAN Biscuit Pollo (120g unidad)"
+- producto: "Biscuit Pollo (120g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1394.07
   - disponible: true
 
-- producto: "GOLOCAN Huesitos C/Chip de Carne (120g unidad)"
+- producto: "Huesitos C/Chip de Carne (120g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1394.07
   - disponible: true
 
-- producto: "GOLOCAN Huesos Sabor carne (38g unidad)"
+- producto: "Huesos Sabor carne (38g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "GOLOCAN Bocaditos C, P, CH Envase Familiar (500g unidad)"
+- producto: "Bocaditos C, P, CH Envase Familiar (500g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 6009.91
   - disponible: true
 
-- producto: "GOLOCAN Bocaditos J, Q, E Envase Familiar (500g unidad)"
+- producto: "Bocaditos J, Q, E Envase Familiar (500g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 6009.91
   - disponible: true
 
-- producto: "GOLOCAN BocaditosM, F, D Envase Familiar (500g unidad)"
+- producto: "BocaditosM, F, D Envase Familiar (500g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 6009.91
   - disponible: true
 
-- producto: "GOLOCAN Bocaditos CHOC Envase Familiar (500g unidad)"
+- producto: "Bocaditos CHOC Envase Familiar (500g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 6009.91
   - disponible: true
 
-- producto: "GOLOCAN Palitos Pollo Envase Familiar (450g unidad)"
+- producto: "Palitos Pollo Envase Familiar (450g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 6009.91
   - disponible: true
 
-- producto: "GOLOCAN Biscuit Pollo Envase Familiar (500g unidad)"
+- producto: "Biscuit Pollo Envase Familiar (500g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 6009.91
   - disponible: true
 
-- producto: "GOLOCAN Huesitos C/ Chip de Carne Envase Familiar (400g unidad)"
+- producto: "Huesitos C/ Chip de Carne Envase Familiar (400g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 6009.91
   - disponible: true
 
-- producto: "GOLOCAN Mini Bocaditos Bajo en Grasas (100g unidad)"
+- producto: "Mini Bocaditos Bajo en Grasas (100g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1487.26
   - disponible: true
 
-- producto: "GOLOCAN Mini Bocaditos Bajo en Sodio (100g unidad)"
+- producto: "Mini Bocaditos Bajo en Sodio (100g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1487.26
   - disponible: true
 
-- producto: "GOLOCAN Bocaditos En Frasco Carne (1x2kg ) 242u aprox."
+- producto: "Bocaditos En Frasco Carne (1x2kg ) 242u aprox."
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 27881.4
   - disponible: true
 
-- producto: "GOLOCAN Bocaditos En Frasco Pollo (1x2kg ) 242u aprox."
+- producto: "Bocaditos En Frasco Pollo (1x2kg ) 242u aprox."
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 27881.4
   - disponible: true
 
-- producto: "GOLOCAN Bocaditos En Frasco Chocolate (1x2kg ) 242u aprox."
+- producto: "Bocaditos En Frasco Chocolate (1x2kg ) 242u aprox."
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 27881.4
   - disponible: true
 
-- producto: "GOLOCAN Bocaditos En Frasco Banana (1x2kg ) 242u aprox."
+- producto: "Bocaditos En Frasco Banana (1x2kg ) 242u aprox."
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "GOLOMIAU de la Granja (45g unidad)"
+- producto: "de la Granja (45g unidad)"
   - marca: "Golomiau"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1273.76
   - disponible: true
 
-- producto: "GOLOMIAU de Mar (45g unidad)"
+- producto: "de Mar (45g unidad)"
   - marca: "Golomiau"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 1273.76
   - disponible: true
 
-- producto: "GOLOMIAU Dental Care (60g unidad)"
+- producto: "Dental Care (60g unidad)"
   - marca: "Golomiau"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 0.00
   - disponible: false
 
-- producto: "GOLOCAN Dental Care Pequeño (144g unidad)"
+- producto: "Dental Care Pequeño (144g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 3503.33
   - disponible: true
 
-- producto: "GOLOCAN Dental Care Mediano (200g unidad)"
+- producto: "Dental Care Mediano (200g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 4347.87
   - disponible: true
 
-- producto: "GOLOCAN Training Snacks (180g unidad)"
+- producto: "Training Snacks (180g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 3345.86
   - disponible: true
 
-- producto: "GOLOCAN Chips de Esofago (65g unidad)"
+- producto: "Chips de Esofago (65g unidad)"
   - marca: "Golocan"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9036,8 +9047,9 @@
 
 ### Cholitas
 
-- producto: "CHOLITAS x 500gr (Caja x10 unid)"
+- producto: "x 500gr (Caja x10 unid)"
   - marca: "Cholitas"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9049,6 +9061,7 @@
 ### Orejas
 
 - producto: "OREJAS CHICAS"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9056,6 +9069,7 @@
   - disponible: true
 
 - producto: "OREJAS MEDIANAS"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9063,6 +9077,7 @@
   - disponible: true
 
 - producto: "OREJAS GRANDES"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9070,6 +9085,7 @@
   - disponible: true
 
 - producto: "OREJAS GIGANTES"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9077,6 +9093,7 @@
   - disponible: true
 
 - producto: "OREJAS CHANCHO NATURALES"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9084,6 +9101,7 @@
   - disponible: true
 
 - producto: "MORROS"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9091,6 +9109,7 @@
   - disponible: true
 
 - producto: "CORBATA"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9100,6 +9119,7 @@
 ### Huesos
 
 - producto: "HUESOS 3/4"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9107,6 +9127,7 @@
   - disponible: true
 
 - producto: "HUESOS 4/5"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9114,6 +9135,7 @@
   - disponible: true
 
 - producto: "HUESOS 5/6"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9121,6 +9143,7 @@
   - disponible: true
 
 - producto: "HUESOS 6/7"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9128,6 +9151,7 @@
   - disponible: true
 
 - producto: "HUESOS 7/8"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9135,6 +9159,7 @@
   - disponible: true
 
 - producto: "HUESO 8/9"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9142,6 +9167,7 @@
   - disponible: true
 
 - producto: "HUESOS 9/10"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9149,6 +9175,7 @@
   - disponible: true
 
 - producto: "HUESO 10/11"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9156,6 +9183,7 @@
   - disponible: true
 
 - producto: "HUESOS 11/12"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9163,6 +9191,7 @@
   - disponible: true
 
 - producto: "HUESOS 13/14"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9170,6 +9199,7 @@
   - disponible: true
 
 - producto: "HUESOS 16/17"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9177,6 +9207,7 @@
   - disponible: true
 
 - producto: "OTROS"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9184,6 +9215,7 @@
   - disponible: false
 
 - producto: "GRISIN MEDIANO"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9191,6 +9223,7 @@
   - disponible: true
 
 - producto: "GRISIN MINI"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9198,6 +9231,7 @@
   - disponible: true
 
 - producto: "ROLL 10/11"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9205,6 +9239,7 @@
   - disponible: true
 
 - producto: "DONAS"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
@@ -9212,8 +9247,2093 @@
   - disponible: true
 
 - producto: "Palitos de colores x200"
+  - tipo_animal: "General"
   - cantidad: null
   - unidad: null
   - presentacion: null
   - precio: 6762.0
   - disponible: true
+
+## Alimentos
+
+### Old Prince Equilibrium CATS — altas Lista 67
+
+- producto: "Equilibrium Gato Adulto Esterilizado"
+  - marca: "Old Prince"
+  - tipo_animal: "Gato"
+  - cantidad: 7.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 49700.00
+  - disponible: true
+
+- producto: "Equilibrium Gato Adulto Esterilizado"
+  - marca: "Old Prince"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 23000.00
+  - disponible: true
+
+- producto: "Equilibrium Gato Adulto Esterilizado"
+  - marca: "Old Prince"
+  - tipo_animal: "Gato"
+  - cantidad: 1
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+
+## Alimentos
+
+### Altas Lista 67
+
+- producto: "Premium Gato Adulto"
+  - marca: "Old Prince"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 17300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Premium Gatitos"
+  - marca: "Old Prince"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 19100.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Company Adulto"
+  - marca: "Company"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 35500.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Company Cachorro"
+  - marca: "Company"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 41200.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Company GATITO"
+  - marca: "Company"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 13400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Company GATO AD"
+  - marca: "Company"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 12700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Company Gato Adulto"
+  - marca: "Company"
+  - tipo_animal: "Gato"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 52200.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Premium Cordero"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 13700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Origen by Company"
+  - marca: "Company"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 32200.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Origen Cachorro"
+  - marca: "Origen"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 22000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Origen GATO AD"
+  - marca: "Origen"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 22000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Perro"
+  - cantidad: 21
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 37800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gatitos"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Gato"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 24800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 28100.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gatitos"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 11600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Perro"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 15900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gatitos"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Gato"
+  - cantidad: 1
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 6400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato adulto"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Gato"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 41800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato Adulto"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Gato"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 22800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato Adulto"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 10600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato Adulto"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Gato"
+  - cantidad: 1
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 3900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto M/G"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Perro"
+  - cantidad: 21
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 32300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto M/G"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 24200.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto M/G"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Perro"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 13400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Ad"
+  - marca: "Natural Meat"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 40100.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto M/G"
+  - marca: "Kongo Natural"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 5600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Ad"
+  - marca: "Natural Meat"
+  - tipo_animal: "General"
+  - cantidad: 7
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 17100.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cach"
+  - marca: "Natural Meat"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Cereales"
+  - tipo_animal: "General"
+  - cantidad: 18
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 19700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 21
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 49900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Cereales"
+  - tipo_animal: "General"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 9900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 36700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 20300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 7400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Criadores"
+  - marca: "Waffen"
+  - tipo_animal: "Perro"
+  - cantidad: 22
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 56200.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto M/G"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 21
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 45800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Criadores"
+  - marca: "Waffen"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 12400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto M/G"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 34600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto M/G"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto M/G"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 7800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato"
+  - marca: "Caudillo"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 21600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Raza Peq"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 36200.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Perro Adulto"
+  - marca: "Caudillo"
+  - tipo_animal: "Perro"
+  - cantidad: 18
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 24400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Raza Peq"
+  - marca: "Kongo Gold"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 7000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Carnix"
+  - tipo_animal: "General"
+  - cantidad: 18
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 21500.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Carnix"
+  - tipo_animal: "General"
+  - cantidad: 25
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 26200.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Junior"
+  - marca: "Voraz"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 33300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Junior"
+  - marca: "Voraz"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Junior"
+  - marca: "Voraz"
+  - tipo_animal: "Perro"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Junior"
+  - marca: "Voraz"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 5600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Adulto"
+  - marca: "Voraz"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 24300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Adulto"
+  - marca: "Voraz"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 18700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Adulto"
+  - marca: "Voraz"
+  - tipo_animal: "General"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 12700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Adulto"
+  - marca: "Voraz"
+  - tipo_animal: "General"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 4200.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Adulto"
+  - marca: "Voraz"
+  - tipo_animal: "General"
+  - cantidad: 25
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 28700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Gatitos"
+  - marca: "Voraz"
+  - tipo_animal: "Gato"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 36100.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Gatitos"
+  - marca: "Voraz"
+  - tipo_animal: "Gato"
+  - cantidad: 1
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Gato Adulto"
+  - marca: "Voraz"
+  - tipo_animal: "Gato"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 42300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Gato Adulto"
+  - marca: "Voraz"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 21400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Voraz Gato Adulto"
+  - marca: "Voraz"
+  - tipo_animal: "Gato"
+  - cantidad: 1
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato Adult"
+  - marca: "Premium"
+  - tipo_animal: "Gato"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "alta performance adulto"
+  - marca: "Provet"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 45000.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Criadores m/g"
+  - marca: "Provet"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 35000.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Perro Adulto"
+  - marca: "Total Balance"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 20400.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Perro Adulto Pequeños"
+  - marca: "Total Balance"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 17100.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Perro Cachorro"
+  - marca: "Total Balance"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 20000.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "ULTRA PRO"
+  - marca: "Total Balance"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 29000.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "ULTRA PRO CORDERO"
+  - marca: "Total Balance"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 24500.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "PERRO ADULTO"
+  - marca: "Bonzo"
+  - tipo_animal: "Perro"
+  - cantidad: 22
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 31900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Digestive Care"
+  - marca: "Royal Canin"
+  - tipo_animal: "General"
+  - cantidad: 1.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 36200.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Raza Pequeña"
+  - marca: "Sieger"
+  - tipo_animal: "Perro"
+  - cantidad: 12
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 56300.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Light"
+  - marca: "Sieger"
+  - tipo_animal: "General"
+  - cantidad: 12
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 62000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Super Premium"
+  - marca: "Sieger"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 64550.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Criadores Adulto"
+  - marca: "Sieger"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 81300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro Mordida Pequeña"
+  - marca: "Sieger"
+  - tipo_animal: "Perro"
+  - cantidad: 12
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 67000.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Agility"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 55500.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Agility"
+  - tipo_animal: "General"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 57800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto R.PEQ"
+  - marca: "Agility"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Kitten"
+  - marca: "Agility"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 57800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Agility"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Control Peso"
+  - marca: "Agility"
+  - tipo_animal: "General"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 57800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Derma Control"
+  - marca: "Agility"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Nutribon"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 24000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Nutribon"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 39000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Nutribon"
+  - tipo_animal: "General"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 14900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Ad Pequeño"
+  - marca: "Nutribon"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 32900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "XQ URINARY"
+  - marca: "Nutribon"
+  - tipo_animal: "General"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 25000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Sabrositos"
+  - tipo_animal: "Perro"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 17500.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato"
+  - marca: "Sabrositos"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 21100.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Sabrositos"
+  - tipo_animal: "Perro"
+  - cantidad: 18
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 29700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato"
+  - marca: "Sabrositos"
+  - tipo_animal: "Gato"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 39800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Sabrositos"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 19800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "VARIEDADES"
+  - marca: "Sabrositos"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 17000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Sabrositos"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 27800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Infinity"
+  - tipo_animal: "Perro"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 20700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Perro pequeño"
+  - marca: "Infinity"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 24400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Perro"
+  - marca: "Infinity"
+  - tipo_animal: "Perro"
+  - cantidad: 21
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 32650.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato"
+  - marca: "Infinity"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 21400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Cooperacion"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 25600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto"
+  - marca: "Cooperacion"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 27700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato"
+  - marca: "Cooperacion"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 22700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "ADULTO M/G"
+  - marca: "Maxpet"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 39400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "ADULTO M/Gx20KG"
+  - marca: "Pampa"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 44900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "ADULTO PEQ"
+  - marca: "Maxpet"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 30600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "ADULTO PEQ"
+  - marca: "Pampa"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 34900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "CACHORRO"
+  - marca: "Maxpet"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 36000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "CACHORRO"
+  - marca: "Pampa"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 41100.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "GATO ADULTO"
+  - marca: "Maxpet"
+  - tipo_animal: "Gato"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 47600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "GATO ADULTO"
+  - marca: "Pampa"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 36500.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "CAN"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 24000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Arroz LUMPPY Tradicional"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 16000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Perro Adulto"
+  - marca: "Matute"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 22500.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Arroz LUMPPY Carne o Pollo"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 16500.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "perro adulto"
+  - marca: "Fidus"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 28500.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "CACHORRO"
+  - marca: "Canfeed"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 61700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "ADULTO"
+  - marca: "Iron Pet"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 31300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "ADULTO SMALL"
+  - marca: "Canfeed"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 53500.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "PREMIUM AD PEQ y MED"
+  - marca: "Iron Pet"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 38650.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "ADULTO LARGE"
+  - marca: "Canfeed"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 53500.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "PREMIUM RAZA GRAN"
+  - marca: "Iron Pet"
+  - tipo_animal: "General"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 41000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "CACHORRO"
+  - marca: "Iron Pet"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 31300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "GATO ADULTO"
+  - marca: "Catfeed"
+  - tipo_animal: "Gato"
+  - cantidad: 7.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 35000.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "PERRO ADULTO"
+  - marca: "Super Pet"
+  - tipo_animal: "Perro"
+  - cantidad: 22
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 25400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Arroz Tradicional Lumppy"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 16000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Arroz Lumppy (CARNE ó POLLO)"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 16500.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Engorde lumppy"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 25
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 14500.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Bebe Iniciador lumppy"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 25
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 15000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Conejo Domestico lumppy"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 25
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 16900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Ponedora Domestica lumppy"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 25
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 15000.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Mezcla Gallina"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 24
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 13600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Maíz Entero"
+  - marca: "Lumppy"
+  - tipo_animal: "General"
+  - cantidad: 30
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 14600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "WONDER GRANULADA"
+  - marca: "Wonder"
+  - tipo_animal: "General"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 9900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "WONDER GRANULADA PERFUMADA"
+  - marca: "Wonder"
+  - tipo_animal: "General"
+  - cantidad: 12
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 14900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "WONDER AGLOMERANTE"
+  - marca: "Wonder"
+  - tipo_animal: "General"
+  - cantidad: 12
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 16800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "WONDER AGLOMERANTE"
+  - marca: "Wonder"
+  - tipo_animal: "General"
+  - cantidad: 4
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 7500.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Dogs Special Recipe Weight Control"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 15600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Premium Cachorro"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 40800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Premium Cachorro"
+  - marca: "Old Prince"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 10000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Pescado/Carne/Pollo"
+  - marca: "Whiskas"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 40600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gatitos"
+  - marca: "Whiskas"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 40600.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Pescado o Carne"
+  - marca: "Whiskas"
+  - tipo_animal: "Gato"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 71700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Raza Pequeña"
+  - marca: "Sieger"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 25900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Sieger"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Perro Adulto"
+  - marca: "Sieger"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 29900.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Cachorro"
+  - marca: "Raza"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 26300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Mix/Carne"
+  - marca: "Raza"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 22400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Mix/Carne"
+  - marca: "Raza"
+  - tipo_animal: "Perro"
+  - cantidad: 21
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 29100.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Senior +7"
+  - marca: "Raza"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Reduce Calories"
+  - marca: "Raza"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Adulto Raza Pequeña"
+  - marca: "Raza"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 22400.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gatitos"
+  - marca: "Raza"
+  - tipo_animal: "Gato"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 22700.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Pescado Adulto"
+  - marca: "Raza"
+  - tipo_animal: "Gato"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 34300.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato Adulto Mix/Pescado/Pollo"
+  - marca: "Raza"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 24000.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gato Castrado"
+  - marca: "Raza"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 28800.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+- producto: "Gatito Cachorro"
+  - marca: "Infinity"
+  - tipo_animal: "Gato"
+  - cantidad: 10
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 23850.00
+  - disponible: true
+  - observaciones: "Lista 67 - alta 31/08/2026"
+
+## Alimentos
+
+### Latas, pouch y snacks — Lista 67
+
+- producto: "LATA Surtida"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 340
+  - unidad: "g"
+  - presentacion: null
+  - precio: 2900.00
+  - disponible: true
+  - observaciones: "Lista 67 - reemplazo 31/08/2026"
+
+- producto: "LATA Surtida"
+  - marca: "Whiskas"
+  - tipo_animal: "Gato"
+  - cantidad: 340
+  - unidad: "g"
+  - presentacion: null
+  - precio: 2900.00
+  - disponible: true
+  - observaciones: "Lista 67 - reemplazo 31/08/2026"
+
+- producto: "Recovery Lata"
+  - marca: "Royal Canin"
+  - tipo_animal: "Perro y gato"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: null
+  - precio: 6700.00
+  - disponible: true
+  - observaciones: "Lista 67 - LATA RECOVERY ROYAL; el proveedor no especifica gramos/presentación"
+
+- producto: "Lata"
+  - marca: "Balanced"
+  - tipo_animal: "Perro y gato"
+  - cantidad: 340
+  - unidad: "g"
+  - presentacion: null
+  - precio: 6300.00
+  - disponible: true
+  - observaciones: "Lista 67 - Vital Can Balanced; sabor/fórmula no especificados"
+
+- producto: "Lata"
+  - marca: "Balanced"
+  - tipo_animal: "Perro y gato"
+  - cantidad: 90
+  - unidad: "g"
+  - presentacion: null
+  - precio: 2900.00
+  - disponible: true
+  - observaciones: "Lista 67 - Vital Can Balanced; sabor/fórmula no especificados"
+
+- producto: "Lata"
+  - marca: "Complete"
+  - tipo_animal: "Perro y gato"
+  - cantidad: 340
+  - unidad: "g"
+  - presentacion: null
+  - precio: 2900.00
+  - disponible: true
+  - observaciones: "Lista 67 - Vital Can Complete; sabor/fórmula no especificados"
+
+- producto: "Pouch"
+  - marca: "Whiskas"
+  - tipo_animal: "Gato"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: null
+  - precio: 10400.00
+  - disponible: true
+  - observaciones: "Lista 67 - Pouch Whiskas (promo); proveedor no especifica variedad ni pack"
+
+- producto: "Pouch"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: null
+  - precio: 11800.00
+  - disponible: true
+  - observaciones: "Lista 67 - Pouch Pedigree (promo); proveedor no especifica variedad ni pack"
+
+- producto: "Pouch"
+  - marca: "Sieger"
+  - tipo_animal: "Perro y gato"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: null
+  - precio: 3400.00
+  - disponible: true
+  - observaciones: "Lista 67 - Pouch Sieger (UNIDAD); no se agrega 100x12 porque el proveedor no lo especifica"
+
+- producto: "Biscrok"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 100
+  - unidad: "g"
+  - presentacion: null
+  - precio: 1500.00
+  - disponible: true
+  - observaciones: "Lista 67 - reemplazo 31/08/2026"
+
+- producto: "Biscrok"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 500
+  - unidad: "g"
+  - presentacion: null
+  - precio: 4900.00
+  - disponible: true
+  - observaciones: "Lista 67 - reemplazo 31/08/2026"
+
+- producto: "DENTASTIX Raza Pequeña"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: "x3"
+  - precio: 1200.00
+  - disponible: true
+  - observaciones: "Lista 67 - presentación expresada por cantidad de unidades; peso no especificado"
+
+- producto: "DENTASTIX Raza Pequeña"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: "x7"
+  - precio: 2300.00
+  - disponible: true
+  - observaciones: "Lista 67 - presentación expresada por cantidad de unidades; peso no especificado"
+
+- producto: "DENTASTIX Raza Mediana"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: "x3"
+  - precio: 1450.00
+  - disponible: true
+  - observaciones: "Lista 67 - presentación expresada por cantidad de unidades; peso no especificado"
+
+- producto: "DENTASTIX Raza Mediana"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: "x7"
+  - precio: 2750.00
+  - disponible: true
+  - observaciones: "Lista 67 - presentación expresada por cantidad de unidades; peso no especificado"
+
+- producto: "DENTASTIX Raza Grande"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: "x3"
+  - precio: 2100.00
+  - disponible: true
+  - observaciones: "Lista 67 - presentación expresada por cantidad de unidades; peso no especificado"
+
+- producto: "DENTASTIX Raza Grande"
+  - marca: "Pedigree"
+  - tipo_animal: "Perro"
+  - cantidad: 1
+  - unidad: "unidad"
+  - presentacion: "x7"
+  - precio: 4100.00
+  - disponible: true
+  - observaciones: "Lista 67 - presentación expresada por cantidad de unidades; peso no especificado"
+
+## Alimentos
+
+### Altas finales Lista 67
+
+- producto: "Premium Cordero Gato Adulto"
+  - marca: "Old Prince"
+  - tipo_animal: "Gato"
+  - cantidad: 7
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 32100.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Premium Gato Urinary"
+  - marca: "Old Prince"
+  - tipo_animal: "Gato"
+  - cantidad: 7
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 32100.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Maintenance Cachorro"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 22700.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Maintenance Cachorro"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 6000.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Maintenance Adulto"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 20800.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Maintenance Adulto"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 5400.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Maintenance Adulto Raza Pequeña"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 21400.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Maintenance Adulto Raza Pequeña"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 5600.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Maintenance High Pro"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 22
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 36100.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Cordero Adulto"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 20
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 36400.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Cordero Cachorro"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 34300.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Cordero Adulto"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 32300.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Cordero Adulto"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 7800.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Cordero Cachorro"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 8500.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Cordero Adulto Pequeño"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 32800.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Cordero Adulto Pequeño"
+  - marca: "Criadores"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 9000.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Maintenance Urinary Gato"
+  - marca: "Criadores"
+  - tipo_animal: "Gato"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 40000.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Maintenance Urinary Gato"
+  - marca: "Criadores"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 10800.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Salmón Gato Adulto"
+  - marca: "Criadores"
+  - tipo_animal: "Gato"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 47300.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Salmón Gato Adulto"
+  - marca: "Criadores"
+  - tipo_animal: "Gato"
+  - cantidad: 7.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 25200.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "High Pro Salmón Gato Adulto"
+  - marca: "Criadores"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 10600.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Recipe Gato"
+  - marca: "Balanced"
+  - tipo_animal: "Gato"
+  - cantidad: 7.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 50800.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Recipe Gato"
+  - marca: "Balanced"
+  - tipo_animal: "Gato"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Adulto Complete"
+  - marca: "Pro Plan"
+  - tipo_animal: "Perro"
+  - cantidad: 15
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 95400.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Adulto Complete"
+  - marca: "Pro Plan"
+  - tipo_animal: "Perro"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 29700.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Reduce Calorie Cat"
+  - marca: "Pro Plan"
+  - tipo_animal: "Gato"
+  - cantidad: 7.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 66700.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Reduce Calorie Cat"
+  - marca: "Pro Plan"
+  - tipo_animal: "Gato"
+  - cantidad: 3
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Reduce Calorie Cat"
+  - marca: "Pro Plan"
+  - tipo_animal: "Gato"
+  - cantidad: 1
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 0.00
+  - disponible: false
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Ageing +12"
+  - marca: "Royal Canin"
+  - tipo_animal: "Gato"
+  - cantidad: 2
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 38800.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Hypoallergenic Cat"
+  - marca: "Royal Canin"
+  - tipo_animal: "Gato"
+  - cantidad: 1.5
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 41600.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
+- producto: "Gatitos"
+  - marca: "Cat Chow"
+  - tipo_animal: "Gato"
+  - cantidad: 8
+  - unidad: "kg"
+  - presentacion: null
+  - precio: 38850.00
+  - disponible: true
+  - observaciones: "Lista 67 - actualización 31/08/2026"
+
