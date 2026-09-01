@@ -190,6 +190,10 @@ function searchable(p){
   - aparece al filtrar Perro
   - aparece al filtrar Gato
   - existe una sola vez en PRODUCTS
+
+  Luego de aplicar filtros y búsqueda:
+  - productos disponibles primero
+  - productos no disponibles al final
 */
 function filteredProducts(){
   const term=
@@ -199,36 +203,42 @@ function filteredProducts(){
   const animal=animalFilter.value;
   const brand=brandFilter.value;
 
-  return PRODUCTS.filter(p=>{
-    const productAnimal=p.animal||'General';
+  return PRODUCTS
+    .filter(p=>{
+      const productAnimal=p.animal||'General';
 
-    const matchesAnimal=
-      animal==='Todos' ||
-      productAnimal===animal ||
-      (
-        productAnimal==='Perro y gato' &&
+      const matchesAnimal=
+        animal==='Todos' ||
+        productAnimal===animal ||
         (
-          animal==='Perro' ||
-          animal==='Gato'
+          productAnimal==='Perro y gato' &&
+          (
+            animal==='Perro' ||
+            animal==='Gato'
+          )
+        );
+
+      return(
+        (
+          activeCategory==='Todos' ||
+          p.category===activeCategory
+        ) &&
+        matchesAnimal &&
+        (
+          brand==='Todas' ||
+          p.brand===brand
+        ) &&
+        (
+          !term ||
+          searchable(p).includes(term)
         )
       );
-
-    return(
-      (
-        activeCategory==='Todos' ||
-        p.category===activeCategory
-      ) &&
-      matchesAnimal &&
-      (
-        brand==='Todas' ||
-        p.brand===brand
-      ) &&
-      (
-        !term ||
-        searchable(p).includes(term)
-      )
+    })
+    .sort(
+      (a,b)=>
+        Number(available(b))-
+        Number(available(a))
     );
-  });
 }
 
 function renderProducts(){
