@@ -559,6 +559,15 @@ function buildWhatsappMessage(){
 function sendWhatsapp(){
   if(!cartEntries().length)return;
 
+  const name=
+    normalizeText(customerName.value,60);
+
+  if(!name){
+    customerName.focus();
+    customerName.reportValidity();
+    return;
+  }
+
   const number=
     CONFIG.whatsappNumber.replace(/\D/g,'');
 
